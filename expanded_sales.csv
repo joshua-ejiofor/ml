@@ -1,0 +1,8 @@
+Date,Product,Region,Sales,Discount,Cost,Profit
+2023-01-01,Widget A,North,1000,50,700,250
+2023-01-01,Widget B,South,1500,100,1100,300
+2023-01-02,Widget A,South,2000,150,1300,550
+2023-01-02,Widget C,East,1800,120,1400,280
+2023-01-03,Widget B,North,2200,200,1600,400
+2023-01-03,Widget A,West,1300,70,900,330
+2023-01-04,Widget C,South,2500,180,1900,420
