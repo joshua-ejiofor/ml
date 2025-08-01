@@ -1,0 +1,2001 @@
+UserID,Movie,Genre,Rating,Timestamp
+105,The Godfather,Crime,2.0,2024-05-17
+733,Titanic,Romance,2.6,2024-11-13
+623,Finding Nemo,Animation,3.8,2023-09-16
+510,Titanic,Romance,3.3,2024-10-17
+134,Interstellar,Sci-Fi,1.6,2024-11-05
+878,Shrek,Comedy,1.6,2024-05-08
+628,Interstellar,Sci-Fi,4.8,2024-09-11
+895,Shrek,Comedy,3.1,2025-03-16
+222,Finding Nemo,Animation,3.9,2024-12-16
+529,Pulp Fiction,Crime,1.9,2024-08-12
+347,Finding Nemo,Animation,1.5,2023-10-19
+682,Finding Nemo,Animation,4.4,2023-11-01
+517,Finding Nemo,Animation,2.7,2023-08-03
+441,Shrek,Comedy,1.9,2023-12-10
+808,Pulp Fiction,Crime,1.5,2024-02-02
+476,The Godfather,Crime,4.9,2023-09-28
+231,Pulp Fiction,Crime,2.2,2024-04-19
+382,Shrek,Comedy,2.4,2023-10-05
+206,Pulp Fiction,Crime,2.4,2025-02-10
+105,Interstellar,Sci-Fi,2.0,2025-03-20
+705,Inception,Sci-Fi,1.3,2024-10-07
+536,Inception,Sci-Fi,1.2,2025-07-23
+449,Finding Nemo,Animation,4.5,2023-09-02
+992,Interstellar,Sci-Fi,3.1,2024-09-15
+719,Pulp Fiction,Crime,3.6,2024-11-25
+741,Shrek,Comedy,3.4,2024-12-30
+119,The Godfather,Crime,1.0,2023-11-12
+175,Finding Nemo,Animation,3.7,2024-09-13
+936,Pulp Fiction,Crime,3.2,2023-08-08
+527,Interstellar,Sci-Fi,1.8,2024-09-13
+486,Inception,Sci-Fi,1.2,2024-06-28
+584,Interstellar,Sci-Fi,4.2,2024-03-04
+103,The Godfather,Crime,2.8,2025-07-12
+498,Pulp Fiction,Crime,1.5,2023-12-06
+170,Finding Nemo,Animation,4.3,2024-01-01
+538,Pulp Fiction,Crime,3.5,2024-02-13
+310,Titanic,Romance,2.1,2023-12-09
+734,Pulp Fiction,Crime,4.2,2024-02-10
+537,Interstellar,Sci-Fi,2.9,2023-10-01
+938,Shrek,Comedy,3.0,2024-02-10
+295,Shrek,Comedy,3.6,2025-05-19
+313,Finding Nemo,Animation,2.1,2024-09-05
+931,Inception,Sci-Fi,2.6,2024-11-20
+839,Interstellar,Sci-Fi,3.6,2024-05-04
+582,Inception,Sci-Fi,4.4,2024-01-20
+636,Avengers,Action,4.6,2024-10-22
+524,Pulp Fiction,Crime,3.0,2025-03-13
+326,Shrek,Comedy,3.5,2024-11-15
+927,Shrek,Comedy,1.8,2024-07-31
+611,Titanic,Romance,1.4,2024-12-09
+379,Titanic,Romance,3.4,2023-12-26
+191,Interstellar,Sci-Fi,2.3,2024-10-24
+358,Pulp Fiction,Crime,4.9,2024-10-03
+793,Shrek,Comedy,1.3,2025-05-11
+365,Finding Nemo,Animation,3.9,2024-05-24
+525,Shrek,Comedy,4.6,2024-10-17
+996,Interstellar,Sci-Fi,2.6,2024-10-28
+781,Shrek,Comedy,1.9,2024-01-30
+403,Avengers,Action,2.2,2025-02-28
+702,Finding Nemo,Animation,3.0,2024-07-13
+866,Shrek,Comedy,3.2,2024-10-06
+384,Titanic,Romance,3.2,2023-12-13
+407,Titanic,Romance,3.5,2023-08-27
+248,Avengers,Action,1.3,2024-06-01
+453,Avengers,Action,2.6,2025-04-05
+406,Shrek,Comedy,3.7,2025-06-13
+726,Interstellar,Sci-Fi,4.5,2023-10-05
+973,Avengers,Action,3.6,2023-08-24
+586,The Godfather,Crime,2.9,2025-06-29
+719,Shrek,Comedy,4.6,2025-04-09
+478,The Godfather,Crime,1.5,2025-05-20
+132,The Godfather,Crime,3.3,2024-01-10
+575,Avengers,Action,1.8,2023-11-24
+956,Avengers,Action,4.5,2025-02-05
+953,Inception,Sci-Fi,3.6,2024-03-25
+271,Pulp Fiction,Crime,4.3,2024-04-21
+970,Inception,Sci-Fi,1.7,2023-10-08
+796,Titanic,Romance,4.7,2023-12-02
+266,Inception,Sci-Fi,2.1,2023-09-03
+368,Titanic,Romance,4.2,2025-07-27
+591,Shrek,Comedy,1.0,2024-06-19
+345,Interstellar,Sci-Fi,2.5,2024-12-11
+426,Interstellar,Sci-Fi,1.6,2024-01-01
+698,Inception,Sci-Fi,2.6,2023-11-23
+213,Titanic,Romance,3.9,2024-12-08
+400,Interstellar,Sci-Fi,4.1,2024-03-26
+129,Interstellar,Sci-Fi,2.7,2024-11-21
+554,Shrek,Comedy,4.1,2023-08-06
+453,Inception,Sci-Fi,3.7,2025-03-12
+737,Interstellar,Sci-Fi,1.0,2023-12-05
+920,Shrek,Comedy,2.4,2024-07-25
+404,The Godfather,Crime,2.3,2024-11-27
+787,Titanic,Romance,1.4,2025-03-11
+829,Avengers,Action,1.2,2024-12-23
+235,Inception,Sci-Fi,4.5,2024-02-10
+139,Inception,Sci-Fi,4.7,2025-02-08
+713,Shrek,Comedy,3.0,2023-09-14
+969,Pulp Fiction,Crime,4.8,2025-07-20
+427,The Godfather,Crime,4.3,2023-11-24
+937,The Godfather,Crime,1.6,2024-06-12
+323,Interstellar,Sci-Fi,5.0,2023-10-06
+632,Interstellar,Sci-Fi,4.0,2024-06-08
+935,Inception,Sci-Fi,3.0,2023-11-11
+583,Inception,Sci-Fi,3.0,2023-08-29
+394,Titanic,Romance,2.6,2024-11-21
+149,Finding Nemo,Animation,2.0,2024-02-12
+887,The Godfather,Crime,4.9,2023-11-18
+372,The Godfather,Crime,2.2,2024-02-17
+894,The Godfather,Crime,1.5,2024-05-08
+974,Titanic,Romance,1.9,2023-11-26
+613,Finding Nemo,Animation,3.7,2024-08-04
+899,The Godfather,Crime,1.8,2025-03-03
+937,Finding Nemo,Animation,3.1,2023-08-15
+585,Avengers,Action,4.0,2023-11-28
+387,Titanic,Romance,1.0,2024-09-27
+746,Interstellar,Sci-Fi,3.7,2024-09-14
+224,Avengers,Action,4.9,2025-06-29
+935,Avengers,Action,2.3,2024-12-17
+289,Avengers,Action,4.2,2024-12-15
+274,Titanic,Romance,4.3,2023-10-09
+170,Shrek,Comedy,4.5,2024-08-08
+418,Avengers,Action,2.7,2023-08-04
+612,Titanic,Romance,2.1,2025-07-09
+609,Pulp Fiction,Crime,4.0,2024-11-19
+489,Pulp Fiction,Crime,2.0,2025-01-10
+739,Shrek,Comedy,2.6,2023-10-17
+197,Titanic,Romance,3.1,2025-06-08
+686,Avengers,Action,1.5,2025-06-22
+782,Finding Nemo,Animation,3.7,2024-02-25
+586,Interstellar,Sci-Fi,1.6,2023-11-28
+300,Interstellar,Sci-Fi,2.7,2023-08-05
+154,Finding Nemo,Animation,3.3,2024-04-23
+959,Avengers,Action,1.4,2024-07-15
+761,Interstellar,Sci-Fi,1.7,2023-11-14
+247,Pulp Fiction,Crime,4.6,2024-11-06
+721,Shrek,Comedy,3.5,2024-08-07
+876,Interstellar,Sci-Fi,2.1,2024-05-20
+242,The Godfather,Crime,4.7,2024-04-29
+516,Avengers,Action,4.0,2023-11-08
+472,Shrek,Comedy,4.4,2024-01-04
+370,Pulp Fiction,Crime,4.2,2024-11-03
+651,Avengers,Action,3.2,2024-02-04
+445,Pulp Fiction,Crime,2.7,2025-04-12
+773,Shrek,Comedy,4.6,2025-02-22
+267,Avengers,Action,1.6,2024-08-24
+459,Avengers,Action,1.5,2024-05-01
+403,Pulp Fiction,Crime,1.3,2025-07-16
+325,Inception,Sci-Fi,1.0,2024-10-23
+688,Titanic,Romance,3.6,2024-02-24
+718,Finding Nemo,Animation,4.9,2024-03-22
+543,Shrek,Comedy,1.9,2023-09-01
+613,The Godfather,Crime,4.1,2023-11-30
+655,Shrek,Comedy,1.9,2024-08-14
+398,Titanic,Romance,3.9,2024-09-17
+318,Inception,Sci-Fi,4.7,2023-08-31
+473,Shrek,Comedy,3.9,2024-03-10
+786,Titanic,Romance,4.9,2024-07-15
+725,Interstellar,Sci-Fi,4.9,2024-06-28
+660,Interstellar,Sci-Fi,3.2,2025-07-21
+710,The Godfather,Crime,3.4,2024-11-22
+629,Titanic,Romance,3.9,2024-06-02
+764,Titanic,Romance,4.1,2025-06-30
+547,Shrek,Comedy,3.6,2024-03-10
+948,Shrek,Comedy,5.0,2024-06-15
+307,Titanic,Romance,1.5,2025-05-31
+319,Inception,Sci-Fi,1.7,2024-01-20
+237,Titanic,Romance,1.4,2024-12-17
+860,Interstellar,Sci-Fi,3.8,2023-10-11
+168,The Godfather,Crime,2.1,2024-10-10
+546,Avengers,Action,4.7,2023-11-03
+216,Avengers,Action,1.1,2025-04-09
+441,The Godfather,Crime,4.1,2024-03-28
+862,Avengers,Action,3.0,2024-10-29
+237,The Godfather,Crime,1.8,2025-07-02
+818,Inception,Sci-Fi,1.6,2024-11-05
+190,Pulp Fiction,Crime,5.0,2024-05-11
+434,Finding Nemo,Animation,3.9,2024-11-19
+673,Pulp Fiction,Crime,4.8,2025-06-08
+965,Inception,Sci-Fi,2.8,2023-11-19
+931,Inception,Sci-Fi,4.0,2025-04-05
+190,Shrek,Comedy,1.5,2024-06-27
+831,Inception,Sci-Fi,2.6,2025-01-18
+280,Inception,Sci-Fi,1.8,2023-12-25
+662,Finding Nemo,Animation,3.3,2025-07-25
+149,Titanic,Romance,4.8,2024-03-31
+761,Interstellar,Sci-Fi,2.6,2024-12-08
+814,Shrek,Comedy,4.7,2025-02-02
+383,Titanic,Romance,1.3,2025-05-03
+608,The Godfather,Crime,2.9,2025-02-04
+454,Interstellar,Sci-Fi,4.3,2024-09-03
+598,Avengers,Action,3.8,2024-01-26
+395,The Godfather,Crime,1.2,2023-12-27
+803,Avengers,Action,2.6,2024-12-29
+694,Pulp Fiction,Crime,2.4,2024-09-19
+495,Avengers,Action,3.7,2024-12-07
+439,Titanic,Romance,1.9,2024-03-28
+904,Avengers,Action,1.0,2023-11-06
+334,Pulp Fiction,Crime,2.5,2025-06-26
+660,Inception,Sci-Fi,3.8,2025-02-04
+579,Titanic,Romance,2.6,2023-10-30
+946,Pulp Fiction,Crime,4.7,2024-08-21
+503,Finding Nemo,Animation,4.1,2024-02-28
+514,The Godfather,Crime,3.9,2024-02-02
+738,Interstellar,Sci-Fi,4.1,2025-02-17
+458,The Godfather,Crime,1.5,2024-03-11
+487,Finding Nemo,Animation,1.6,2024-06-09
+871,Pulp Fiction,Crime,1.8,2023-08-21
+608,Inception,Sci-Fi,2.3,2024-09-29
+584,Avengers,Action,3.2,2024-10-05
+598,Avengers,Action,1.6,2023-11-15
+797,Shrek,Comedy,1.8,2025-02-06
+203,The Godfather,Crime,3.6,2025-01-31
+667,Avengers,Action,1.7,2024-08-16
+970,Avengers,Action,3.1,2024-05-29
+518,Finding Nemo,Animation,4.0,2023-10-14
+613,Inception,Sci-Fi,1.3,2023-11-25
+566,The Godfather,Crime,1.1,2023-08-07
+561,Titanic,Romance,2.7,2023-12-20
+647,Inception,Sci-Fi,2.6,2023-10-22
+191,The Godfather,Crime,2.8,2025-01-08
+546,The Godfather,Crime,3.1,2023-11-09
+525,Pulp Fiction,Crime,1.5,2024-10-17
+873,Pulp Fiction,Crime,4.5,2024-03-16
+826,Pulp Fiction,Crime,4.6,2024-07-05
+687,Titanic,Romance,1.7,2025-03-03
+499,Avengers,Action,4.2,2024-11-01
+187,Shrek,Comedy,2.8,2024-04-20
+515,Titanic,Romance,3.9,2024-02-17
+210,Titanic,Romance,3.3,2025-05-17
+492,Interstellar,Sci-Fi,2.0,2024-09-09
+882,The Godfather,Crime,4.8,2024-05-06
+947,Interstellar,Sci-Fi,1.9,2023-11-06
+229,Finding Nemo,Animation,4.2,2024-03-08
+169,Interstellar,Sci-Fi,3.2,2024-12-17
+246,The Godfather,Crime,2.6,2025-05-21
+629,The Godfather,Crime,1.4,2024-10-16
+621,Avengers,Action,4.4,2024-09-12
+401,Shrek,Comedy,3.0,2023-12-31
+941,The Godfather,Crime,2.0,2025-06-08
+480,Finding Nemo,Animation,3.9,2024-07-14
+862,Shrek,Comedy,2.7,2023-12-14
+551,Inception,Sci-Fi,1.1,2024-11-23
+133,Avengers,Action,4.0,2023-08-16
+432,The Godfather,Crime,2.7,2025-06-27
+915,Avengers,Action,1.8,2025-01-21
+597,Inception,Sci-Fi,2.5,2025-07-28
+605,Shrek,Comedy,1.3,2023-12-23
+533,Titanic,Romance,1.4,2025-04-04
+425,Finding Nemo,Animation,1.2,2024-02-01
+886,Titanic,Romance,2.8,2024-10-07
+261,Titanic,Romance,1.2,2025-06-19
+537,Pulp Fiction,Crime,4.2,2024-06-29
+846,The Godfather,Crime,1.6,2025-06-06
+280,Avengers,Action,3.3,2024-06-06
+386,Interstellar,Sci-Fi,4.5,2024-05-03
+229,Pulp Fiction,Crime,4.7,2024-08-15
+269,Pulp Fiction,Crime,4.5,2025-05-24
+569,Finding Nemo,Animation,2.5,2023-11-13
+800,Titanic,Romance,4.6,2024-02-22
+992,Finding Nemo,Animation,1.8,2024-07-23
+309,Inception,Sci-Fi,4.2,2024-06-03
+659,Avengers,Action,3.0,2025-03-18
+797,The Godfather,Crime,4.0,2024-03-21
+734,Titanic,Romance,4.8,2023-10-12
+780,Titanic,Romance,2.4,2024-03-03
+516,Inception,Sci-Fi,2.8,2024-05-06
+483,Titanic,Romance,2.4,2024-09-21
+743,The Godfather,Crime,1.1,2023-11-19
+903,Finding Nemo,Animation,1.5,2024-02-16
+265,Avengers,Action,3.0,2025-02-17
+741,Pulp Fiction,Crime,4.5,2023-09-09
+875,Inception,Sci-Fi,1.1,2023-12-07
+369,Inception,Sci-Fi,4.6,2024-04-09
+872,Titanic,Romance,3.1,2025-01-03
+645,Pulp Fiction,Crime,3.4,2023-09-27
+787,Inception,Sci-Fi,3.5,2024-05-06
+410,Interstellar,Sci-Fi,1.4,2024-01-14
+902,Pulp Fiction,Crime,4.6,2024-05-23
+326,The Godfather,Crime,4.8,2024-12-29
+994,Pulp Fiction,Crime,1.9,2025-07-15
+864,Shrek,Comedy,3.8,2024-10-21
+597,Pulp Fiction,Crime,3.1,2025-04-12
+439,Avengers,Action,5.0,2023-11-04
+283,Shrek,Comedy,2.1,2025-01-26
+647,Inception,Sci-Fi,3.1,2024-04-04
+668,Avengers,Action,3.6,2025-02-26
+793,Inception,Sci-Fi,1.9,2025-01-14
+727,Pulp Fiction,Crime,2.4,2024-07-09
+456,Pulp Fiction,Crime,1.7,2025-07-29
+920,Shrek,Comedy,1.7,2025-03-09
+314,Pulp Fiction,Crime,3.9,2024-09-11
+754,Interstellar,Sci-Fi,1.5,2024-07-23
+889,Pulp Fiction,Crime,4.7,2024-01-04
+317,Avengers,Action,1.4,2025-07-18
+863,Interstellar,Sci-Fi,4.3,2025-03-14
+849,Pulp Fiction,Crime,1.2,2024-01-26
+573,Interstellar,Sci-Fi,3.8,2024-12-26
+304,Finding Nemo,Animation,4.6,2024-03-24
+322,Avengers,Action,2.6,2024-04-18
+833,Titanic,Romance,1.8,2024-09-22
+222,The Godfather,Crime,5.0,2025-05-20
+788,Titanic,Romance,3.6,2025-02-03
+365,Titanic,Romance,4.4,2024-09-05
+223,Inception,Sci-Fi,3.0,2024-08-11
+429,Shrek,Comedy,3.9,2024-12-06
+272,Finding Nemo,Animation,4.4,2023-11-30
+357,The Godfather,Crime,2.2,2024-12-27
+485,Titanic,Romance,3.6,2024-05-31
+678,Interstellar,Sci-Fi,4.3,2025-01-07
+628,Interstellar,Sci-Fi,3.8,2025-01-12
+936,Pulp Fiction,Crime,2.7,2025-01-01
+730,Interstellar,Sci-Fi,3.8,2024-05-02
+228,Shrek,Comedy,1.6,2024-04-10
+617,Interstellar,Sci-Fi,2.0,2024-09-14
+239,Shrek,Comedy,1.5,2023-11-24
+635,Avengers,Action,4.7,2024-10-25
+955,Finding Nemo,Animation,3.6,2024-11-27
+240,Titanic,Romance,2.8,2024-09-26
+412,Shrek,Comedy,2.8,2025-01-18
+160,Pulp Fiction,Crime,4.8,2024-07-23
+319,Finding Nemo,Animation,3.5,2024-11-22
+495,Shrek,Comedy,2.7,2024-03-23
+900,Avengers,Action,2.2,2025-01-28
+370,Interstellar,Sci-Fi,2.1,2024-08-18
+167,Inception,Sci-Fi,2.9,2025-03-18
+805,Finding Nemo,Animation,2.8,2025-02-02
+265,The Godfather,Crime,4.1,2023-08-09
+917,Pulp Fiction,Crime,4.7,2024-09-30
+194,Finding Nemo,Animation,4.6,2025-06-27
+346,Interstellar,Sci-Fi,2.2,2024-10-04
+445,Titanic,Romance,3.0,2024-10-06
+151,Shrek,Comedy,3.5,2025-03-12
+218,Shrek,Comedy,4.1,2025-03-16
+628,Interstellar,Sci-Fi,4.9,2025-04-19
+282,Interstellar,Sci-Fi,1.2,2024-05-13
+779,Titanic,Romance,1.0,2025-04-20
+811,Pulp Fiction,Crime,3.0,2025-06-24
+424,Shrek,Comedy,1.1,2023-09-07
+323,Finding Nemo,Animation,1.1,2024-05-24
+800,Inception,Sci-Fi,2.1,2025-03-16
+472,Shrek,Comedy,2.0,2024-05-15
+442,Inception,Sci-Fi,1.2,2024-12-11
+730,Shrek,Comedy,4.7,2024-01-19
+590,The Godfather,Crime,4.9,2024-04-13
+857,Interstellar,Sci-Fi,3.7,2023-09-08
+183,Interstellar,Sci-Fi,1.9,2024-04-01
+404,Finding Nemo,Animation,2.7,2024-10-04
+594,Pulp Fiction,Crime,2.7,2025-01-22
+459,Finding Nemo,Animation,3.0,2024-02-19
+742,Avengers,Action,1.1,2024-12-08
+450,The Godfather,Crime,1.1,2024-09-01
+534,Titanic,Romance,2.3,2024-02-15
+451,The Godfather,Crime,2.9,2025-02-10
+538,Interstellar,Sci-Fi,1.1,2024-01-01
+799,The Godfather,Crime,1.1,2024-09-17
+193,Pulp Fiction,Crime,4.3,2025-06-10
+997,The Godfather,Crime,2.4,2025-07-14
+717,Finding Nemo,Animation,2.2,2023-12-03
+189,Shrek,Comedy,1.0,2025-06-14
+819,Shrek,Comedy,2.1,2025-06-25
+430,Shrek,Comedy,2.7,2025-05-29
+309,Interstellar,Sci-Fi,4.5,2025-01-15
+367,Titanic,Romance,4.4,2025-02-26
+373,Interstellar,Sci-Fi,2.4,2025-06-16
+236,Shrek,Comedy,4.2,2024-06-14
+439,Shrek,Comedy,2.9,2024-02-21
+759,Shrek,Comedy,1.5,2024-10-01
+577,Shrek,Comedy,2.1,2024-05-08
+702,The Godfather,Crime,3.5,2024-06-03
+147,Shrek,Comedy,2.0,2025-03-22
+581,Inception,Sci-Fi,4.0,2024-11-23
+326,Interstellar,Sci-Fi,1.4,2024-08-20
+989,Finding Nemo,Animation,1.5,2023-08-16
+914,Inception,Sci-Fi,2.0,2023-11-14
+803,Titanic,Romance,3.4,2023-09-06
+209,Titanic,Romance,3.7,2023-09-29
+643,Shrek,Comedy,2.9,2024-03-17
+792,Inception,Sci-Fi,3.4,2024-02-25
+837,Finding Nemo,Animation,2.9,2025-02-07
+232,Interstellar,Sci-Fi,1.3,2024-05-24
+261,Titanic,Romance,4.3,2025-07-02
+490,Finding Nemo,Animation,2.6,2023-09-12
+190,The Godfather,Crime,2.8,2024-08-15
+653,Finding Nemo,Animation,1.2,2023-08-07
+481,Pulp Fiction,Crime,3.7,2024-09-18
+450,Finding Nemo,Animation,2.9,2025-01-29
+563,Pulp Fiction,Crime,2.5,2023-12-09
+325,Finding Nemo,Animation,1.6,2025-03-26
+319,Avengers,Action,1.5,2025-04-29
+382,Pulp Fiction,Crime,4.0,2023-10-22
+684,Finding Nemo,Animation,2.0,2023-08-01
+764,Pulp Fiction,Crime,4.9,2025-06-11
+438,Interstellar,Sci-Fi,1.8,2024-06-20
+983,Pulp Fiction,Crime,2.6,2023-09-26
+656,Interstellar,Sci-Fi,2.9,2024-01-13
+146,Inception,Sci-Fi,4.4,2024-08-03
+674,Inception,Sci-Fi,4.9,2023-08-26
+844,Inception,Sci-Fi,1.1,2023-10-01
+916,Finding Nemo,Animation,3.3,2023-09-15
+586,Inception,Sci-Fi,2.7,2024-03-23
+689,Pulp Fiction,Crime,4.4,2023-08-22
+858,Interstellar,Sci-Fi,2.9,2025-01-14
+471,Pulp Fiction,Crime,2.1,2024-04-04
+631,Interstellar,Sci-Fi,3.0,2025-03-11
+464,Shrek,Comedy,4.3,2023-12-13
+399,Interstellar,Sci-Fi,1.7,2023-11-13
+206,Inception,Sci-Fi,3.2,2023-08-14
+446,Finding Nemo,Animation,1.4,2023-09-19
+652,Finding Nemo,Animation,2.5,2023-11-30
+410,Interstellar,Sci-Fi,3.5,2023-09-26
+888,Interstellar,Sci-Fi,2.6,2023-11-13
+551,Finding Nemo,Animation,1.8,2024-10-02
+375,Pulp Fiction,Crime,4.4,2025-03-31
+815,Avengers,Action,4.2,2023-08-20
+330,The Godfather,Crime,2.2,2024-06-13
+923,Finding Nemo,Animation,1.4,2025-02-25
+129,The Godfather,Crime,2.3,2025-07-30
+433,Shrek,Comedy,2.2,2023-08-16
+109,Titanic,Romance,3.0,2024-06-16
+119,Pulp Fiction,Crime,3.4,2024-05-07
+924,Inception,Sci-Fi,2.0,2024-03-18
+852,Finding Nemo,Animation,3.8,2023-09-12
+772,Inception,Sci-Fi,4.4,2025-01-09
+652,Shrek,Comedy,2.1,2023-09-20
+242,Pulp Fiction,Crime,2.3,2024-02-20
+862,Pulp Fiction,Crime,4.5,2025-02-11
+372,The Godfather,Crime,3.9,2024-04-10
+667,Shrek,Comedy,4.1,2024-09-23
+200,Inception,Sci-Fi,1.1,2024-03-10
+520,Pulp Fiction,Crime,3.4,2023-12-21
+946,Finding Nemo,Animation,1.5,2024-10-20
+884,Inception,Sci-Fi,4.5,2025-02-14
+584,Avengers,Action,3.1,2024-12-02
+712,The Godfather,Crime,1.3,2024-02-18
+349,The Godfather,Crime,3.3,2023-09-05
+493,The Godfather,Crime,2.1,2023-08-22
+408,Inception,Sci-Fi,2.2,2024-01-18
+623,The Godfather,Crime,4.8,2024-06-08
+452,Finding Nemo,Animation,3.1,2025-01-04
+306,Avengers,Action,1.4,2025-03-13
+420,Avengers,Action,3.8,2024-07-05
+156,Avengers,Action,2.9,2025-06-20
+453,Avengers,Action,4.4,2025-03-31
+732,Titanic,Romance,3.0,2024-07-10
+659,Inception,Sci-Fi,3.3,2024-07-23
+500,Avengers,Action,4.6,2023-09-29
+443,The Godfather,Crime,1.1,2024-11-09
+899,Pulp Fiction,Crime,3.5,2024-06-12
+680,Finding Nemo,Animation,2.4,2025-02-15
+195,Interstellar,Sci-Fi,3.7,2024-09-28
+119,Finding Nemo,Animation,1.7,2024-08-24
+757,Titanic,Romance,1.6,2024-08-15
+138,Finding Nemo,Animation,2.1,2025-03-29
+450,Interstellar,Sci-Fi,5.0,2023-12-02
+814,Pulp Fiction,Crime,2.3,2025-04-30
+121,Interstellar,Sci-Fi,3.8,2024-05-22
+738,Interstellar,Sci-Fi,2.4,2023-12-26
+934,Avengers,Action,4.8,2024-10-30
+737,Avengers,Action,4.0,2025-05-23
+913,Avengers,Action,2.2,2023-08-03
+728,Shrek,Comedy,3.9,2024-07-10
+175,Interstellar,Sci-Fi,1.7,2025-06-20
+318,Shrek,Comedy,2.2,2024-10-28
+339,Pulp Fiction,Crime,1.2,2024-01-01
+714,Inception,Sci-Fi,3.8,2024-05-05
+780,Titanic,Romance,2.8,2025-02-09
+533,Inception,Sci-Fi,4.4,2025-02-21
+657,The Godfather,Crime,1.3,2023-12-21
+372,Avengers,Action,1.5,2024-05-12
+470,Finding Nemo,Animation,2.2,2023-11-20
+186,Inception,Sci-Fi,3.3,2023-10-17
+271,Finding Nemo,Animation,3.7,2024-09-16
+492,Titanic,Romance,4.7,2024-05-06
+308,Shrek,Comedy,3.8,2024-09-28
+636,Titanic,Romance,2.8,2024-06-18
+757,Avengers,Action,4.3,2024-08-24
+455,Inception,Sci-Fi,4.3,2025-07-11
+280,Shrek,Comedy,2.9,2024-12-14
+705,Finding Nemo,Animation,2.9,2025-03-27
+581,Shrek,Comedy,3.4,2025-04-04
+953,The Godfather,Crime,4.2,2025-02-24
+415,Finding Nemo,Animation,3.7,2024-12-01
+320,Titanic,Romance,3.5,2024-01-21
+947,Inception,Sci-Fi,3.2,2024-07-26
+134,Interstellar,Sci-Fi,2.1,2024-10-26
+348,Pulp Fiction,Crime,1.1,2023-10-10
+444,Pulp Fiction,Crime,3.7,2025-02-12
+491,Finding Nemo,Animation,4.4,2023-09-05
+529,Interstellar,Sci-Fi,1.1,2024-07-26
+913,Inception,Sci-Fi,3.8,2024-09-03
+495,The Godfather,Crime,3.7,2023-11-20
+731,Finding Nemo,Animation,2.5,2024-11-07
+603,Avengers,Action,4.7,2024-10-15
+491,Interstellar,Sci-Fi,4.8,2024-08-04
+507,Finding Nemo,Animation,3.4,2024-09-08
+715,Inception,Sci-Fi,4.2,2025-03-27
+479,Pulp Fiction,Crime,1.4,2023-10-12
+148,Interstellar,Sci-Fi,4.7,2025-06-17
+278,Inception,Sci-Fi,4.6,2024-10-29
+487,Interstellar,Sci-Fi,4.1,2024-12-09
+469,Pulp Fiction,Crime,1.3,2024-04-01
+860,Finding Nemo,Animation,4.8,2024-04-17
+717,Inception,Sci-Fi,4.8,2023-11-15
+929,Inception,Sci-Fi,4.1,2024-04-10
+665,Finding Nemo,Animation,1.4,2024-08-29
+524,Shrek,Comedy,3.2,2023-08-21
+910,Pulp Fiction,Crime,4.7,2025-02-12
+827,Avengers,Action,3.7,2025-07-29
+948,Shrek,Comedy,2.0,2023-11-12
+789,Pulp Fiction,Crime,3.2,2025-03-08
+349,Avengers,Action,3.1,2024-09-08
+671,Finding Nemo,Animation,2.9,2025-05-25
+779,Shrek,Comedy,2.5,2025-06-13
+634,Inception,Sci-Fi,3.2,2025-07-09
+168,The Godfather,Crime,1.7,2025-05-16
+408,The Godfather,Crime,1.8,2025-05-10
+428,Finding Nemo,Animation,2.5,2025-06-29
+997,Avengers,Action,3.0,2024-01-28
+589,Finding Nemo,Animation,2.4,2025-05-08
+827,Pulp Fiction,Crime,2.2,2024-03-09
+815,Inception,Sci-Fi,2.7,2025-05-28
+407,Avengers,Action,1.8,2023-08-10
+199,Shrek,Comedy,2.8,2025-05-11
+704,Finding Nemo,Animation,3.3,2023-10-17
+616,Avengers,Action,2.7,2023-10-08
+582,Shrek,Comedy,2.6,2025-03-02
+431,Interstellar,Sci-Fi,1.1,2023-11-06
+241,Shrek,Comedy,2.4,2024-10-06
+697,Pulp Fiction,Crime,4.0,2025-01-11
+145,Titanic,Romance,2.2,2024-06-18
+724,Inception,Sci-Fi,1.6,2024-05-28
+309,Titanic,Romance,2.7,2023-11-30
+436,Pulp Fiction,Crime,4.1,2024-11-25
+171,The Godfather,Crime,3.6,2024-11-09
+340,Shrek,Comedy,4.1,2023-08-25
+963,Avengers,Action,4.5,2025-05-06
+680,Titanic,Romance,3.2,2025-03-07
+459,Avengers,Action,3.9,2024-06-16
+225,Pulp Fiction,Crime,3.9,2024-01-26
+814,Titanic,Romance,4.6,2024-11-02
+973,Titanic,Romance,5.0,2025-04-16
+159,Finding Nemo,Animation,1.5,2024-01-01
+588,Avengers,Action,1.4,2023-12-06
+263,Pulp Fiction,Crime,1.5,2024-10-24
+522,The Godfather,Crime,4.9,2024-11-19
+817,Finding Nemo,Animation,3.0,2023-08-14
+610,Titanic,Romance,3.9,2024-05-25
+493,The Godfather,Crime,2.7,2024-02-10
+508,Finding Nemo,Animation,1.8,2024-12-16
+943,Shrek,Comedy,3.6,2025-05-29
+973,Shrek,Comedy,3.7,2025-06-15
+235,The Godfather,Crime,4.5,2024-06-24
+344,Finding Nemo,Animation,2.0,2025-03-27
+499,Finding Nemo,Animation,2.5,2023-08-14
+197,Interstellar,Sci-Fi,2.1,2025-01-12
+203,The Godfather,Crime,2.1,2024-12-24
+671,Pulp Fiction,Crime,1.5,2023-11-10
+782,Titanic,Romance,3.2,2024-07-30
+631,Pulp Fiction,Crime,3.7,2023-10-26
+893,Pulp Fiction,Crime,3.9,2024-07-18
+520,Avengers,Action,4.1,2024-09-25
+110,Inception,Sci-Fi,3.5,2024-08-11
+506,Shrek,Comedy,2.8,2025-04-30
+782,Finding Nemo,Animation,2.7,2023-08-15
+800,Titanic,Romance,3.0,2023-08-09
+656,Titanic,Romance,3.7,2024-11-25
+476,Titanic,Romance,3.4,2024-04-13
+242,Shrek,Comedy,4.7,2024-12-17
+290,Finding Nemo,Animation,1.1,2025-04-11
+982,Titanic,Romance,2.8,2023-09-19
+505,Titanic,Romance,3.2,2024-05-21
+333,Shrek,Comedy,1.3,2025-04-24
+692,Inception,Sci-Fi,4.5,2024-10-22
+245,Inception,Sci-Fi,2.2,2024-03-21
+591,Pulp Fiction,Crime,1.5,2024-10-04
+995,Finding Nemo,Animation,3.9,2024-11-05
+231,Avengers,Action,2.2,2024-08-23
+690,Interstellar,Sci-Fi,3.6,2025-02-13
+784,Inception,Sci-Fi,3.1,2024-05-18
+373,Titanic,Romance,3.9,2024-01-23
+199,Avengers,Action,3.2,2025-04-18
+793,Avengers,Action,2.9,2024-12-24
+970,Avengers,Action,1.6,2025-04-21
+136,Titanic,Romance,2.6,2023-08-22
+616,Titanic,Romance,3.4,2024-10-08
+839,The Godfather,Crime,1.6,2025-05-26
+806,Titanic,Romance,4.7,2025-05-20
+636,Pulp Fiction,Crime,1.4,2024-11-09
+752,Shrek,Comedy,1.7,2024-10-31
+744,Inception,Sci-Fi,3.1,2025-04-30
+533,Finding Nemo,Animation,1.2,2024-10-03
+299,Pulp Fiction,Crime,4.6,2025-07-22
+412,Shrek,Comedy,4.1,2023-09-15
+724,Inception,Sci-Fi,4.4,2024-04-15
+890,Finding Nemo,Animation,2.6,2025-05-26
+432,Titanic,Romance,2.7,2024-01-15
+140,Finding Nemo,Animation,2.7,2023-10-10
+264,Finding Nemo,Animation,2.1,2023-09-09
+319,Pulp Fiction,Crime,4.4,2024-05-28
+876,Shrek,Comedy,4.1,2024-04-22
+267,The Godfather,Crime,2.4,2023-11-27
+817,Interstellar,Sci-Fi,2.5,2024-09-13
+415,Inception,Sci-Fi,3.5,2025-07-23
+996,The Godfather,Crime,3.4,2025-06-17
+137,Inception,Sci-Fi,4.8,2024-03-13
+734,Interstellar,Sci-Fi,2.3,2023-11-24
+503,Titanic,Romance,4.0,2024-06-18
+809,Avengers,Action,4.7,2024-01-23
+258,Pulp Fiction,Crime,5.0,2024-05-09
+597,Pulp Fiction,Crime,3.2,2024-11-17
+670,The Godfather,Crime,2.0,2025-02-18
+735,Interstellar,Sci-Fi,3.1,2023-10-06
+367,Interstellar,Sci-Fi,1.3,2025-04-26
+953,Interstellar,Sci-Fi,1.8,2025-03-10
+676,Shrek,Comedy,3.3,2025-01-02
+670,Shrek,Comedy,2.5,2023-08-08
+510,Inception,Sci-Fi,1.9,2023-10-30
+108,Inception,Sci-Fi,1.0,2025-06-19
+547,Shrek,Comedy,3.8,2023-09-22
+984,The Godfather,Crime,1.5,2025-06-12
+147,Pulp Fiction,Crime,2.3,2024-09-21
+954,Avengers,Action,1.8,2024-07-07
+969,Shrek,Comedy,2.7,2024-05-28
+211,Interstellar,Sci-Fi,1.5,2025-01-27
+524,Interstellar,Sci-Fi,1.1,2025-01-22
+191,Interstellar,Sci-Fi,2.1,2023-11-06
+858,Pulp Fiction,Crime,4.5,2025-07-13
+559,Interstellar,Sci-Fi,4.5,2024-11-16
+257,The Godfather,Crime,2.5,2023-12-25
+208,Pulp Fiction,Crime,4.3,2023-12-31
+198,Finding Nemo,Animation,2.8,2024-02-27
+582,Shrek,Comedy,4.5,2023-09-29
+253,Titanic,Romance,2.1,2023-08-08
+351,Interstellar,Sci-Fi,1.9,2024-06-29
+417,Titanic,Romance,1.9,2024-01-17
+286,Inception,Sci-Fi,2.1,2025-03-04
+704,Pulp Fiction,Crime,3.1,2025-03-21
+137,Finding Nemo,Animation,1.8,2024-10-28
+984,Interstellar,Sci-Fi,2.4,2024-12-06
+480,Avengers,Action,2.4,2025-07-27
+721,Titanic,Romance,3.3,2024-05-16
+199,Pulp Fiction,Crime,4.3,2023-12-24
+360,Inception,Sci-Fi,3.8,2023-12-07
+203,Shrek,Comedy,3.1,2024-03-31
+394,The Godfather,Crime,4.8,2024-06-10
+596,The Godfather,Crime,2.9,2025-07-27
+659,Titanic,Romance,4.5,2024-10-18
+239,Finding Nemo,Animation,2.7,2024-07-16
+509,Shrek,Comedy,3.1,2025-07-29
+194,The Godfather,Crime,1.5,2025-01-26
+852,Titanic,Romance,3.4,2023-12-03
+970,Pulp Fiction,Crime,3.6,2025-01-13
+699,Inception,Sci-Fi,3.6,2025-07-22
+889,Titanic,Romance,1.7,2024-06-26
+121,Avengers,Action,2.1,2025-06-29
+975,Avengers,Action,4.2,2024-11-11
+552,Interstellar,Sci-Fi,2.0,2025-06-09
+826,Interstellar,Sci-Fi,3.6,2025-06-30
+344,Pulp Fiction,Crime,3.4,2024-07-03
+459,Inception,Sci-Fi,4.9,2023-08-04
+263,Finding Nemo,Animation,3.6,2024-09-08
+690,Interstellar,Sci-Fi,2.3,2025-05-31
+375,Shrek,Comedy,3.2,2023-10-27
+498,Inception,Sci-Fi,2.3,2024-10-28
+385,Avengers,Action,4.7,2025-07-24
+347,Titanic,Romance,1.2,2024-03-08
+831,Shrek,Comedy,1.3,2024-07-28
+710,The Godfather,Crime,2.9,2025-01-07
+609,Shrek,Comedy,2.8,2024-04-15
+171,Shrek,Comedy,3.9,2024-03-24
+808,Finding Nemo,Animation,3.0,2023-08-10
+851,Avengers,Action,1.5,2023-09-13
+628,Shrek,Comedy,4.0,2025-05-10
+134,Avengers,Action,4.9,2025-03-06
+220,Interstellar,Sci-Fi,2.3,2023-12-11
+788,Inception,Sci-Fi,3.2,2024-01-18
+566,Pulp Fiction,Crime,3.6,2025-01-26
+670,Shrek,Comedy,3.6,2024-08-03
+741,Avengers,Action,1.9,2023-10-14
+439,Titanic,Romance,4.9,2024-09-25
+194,Finding Nemo,Animation,4.5,2025-02-02
+473,Titanic,Romance,1.6,2023-11-26
+545,Titanic,Romance,4.9,2024-04-10
+627,Avengers,Action,3.3,2023-11-03
+241,The Godfather,Crime,4.0,2024-08-27
+436,Finding Nemo,Animation,1.9,2025-05-02
+238,Pulp Fiction,Crime,1.5,2023-10-13
+673,Interstellar,Sci-Fi,1.6,2024-06-18
+976,Avengers,Action,1.3,2024-05-11
+483,Titanic,Romance,3.7,2024-12-26
+623,Finding Nemo,Animation,3.7,2024-01-28
+276,Titanic,Romance,4.0,2024-09-30
+516,Shrek,Comedy,3.6,2024-07-12
+924,Shrek,Comedy,4.9,2025-04-24
+508,Avengers,Action,2.1,2024-04-30
+349,Interstellar,Sci-Fi,2.6,2024-02-15
+680,Finding Nemo,Animation,1.8,2024-07-30
+579,Finding Nemo,Animation,2.1,2024-11-17
+670,Finding Nemo,Animation,2.7,2023-10-14
+901,Shrek,Comedy,4.9,2023-09-01
+746,Interstellar,Sci-Fi,3.5,2024-01-20
+370,Interstellar,Sci-Fi,4.5,2025-03-22
+648,The Godfather,Crime,3.4,2023-08-12
+961,Titanic,Romance,4.4,2025-05-15
+544,Interstellar,Sci-Fi,1.3,2025-05-25
+746,Avengers,Action,2.2,2024-11-02
+294,Inception,Sci-Fi,3.0,2025-01-20
+693,Finding Nemo,Animation,3.7,2023-10-30
+797,The Godfather,Crime,4.8,2024-05-31
+572,Shrek,Comedy,4.1,2025-07-24
+328,Titanic,Romance,1.4,2024-06-09
+172,Shrek,Comedy,4.6,2025-01-15
+902,Pulp Fiction,Crime,1.9,2023-09-22
+792,The Godfather,Crime,5.0,2024-07-02
+194,Inception,Sci-Fi,1.5,2024-02-19
+868,Finding Nemo,Animation,4.4,2024-10-08
+930,Shrek,Comedy,2.1,2023-08-24
+670,Pulp Fiction,Crime,2.7,2024-05-17
+722,Titanic,Romance,4.1,2024-05-29
+829,Inception,Sci-Fi,2.0,2024-05-21
+624,Shrek,Comedy,4.7,2023-08-31
+527,Avengers,Action,1.1,2025-05-10
+797,Interstellar,Sci-Fi,1.5,2023-11-28
+954,Pulp Fiction,Crime,1.3,2024-01-20
+979,Titanic,Romance,1.3,2023-12-18
+110,The Godfather,Crime,2.6,2024-07-19
+873,Avengers,Action,2.3,2025-05-05
+949,Avengers,Action,4.1,2024-07-02
+384,Pulp Fiction,Crime,2.1,2024-01-21
+914,Pulp Fiction,Crime,1.3,2025-05-16
+402,Avengers,Action,4.2,2024-04-06
+353,Shrek,Comedy,3.7,2024-07-27
+464,The Godfather,Crime,4.0,2023-12-24
+847,Shrek,Comedy,3.3,2024-11-11
+309,The Godfather,Crime,1.2,2024-11-07
+535,Pulp Fiction,Crime,4.5,2024-04-21
+267,Inception,Sci-Fi,1.8,2023-12-05
+485,Avengers,Action,3.2,2024-01-22
+657,Inception,Sci-Fi,2.8,2025-03-10
+216,Finding Nemo,Animation,1.3,2025-05-02
+573,Finding Nemo,Animation,1.7,2025-04-20
+398,Avengers,Action,2.2,2023-11-25
+505,Avengers,Action,2.0,2023-10-08
+590,Finding Nemo,Animation,4.5,2025-01-31
+640,Shrek,Comedy,3.6,2025-03-10
+283,Shrek,Comedy,2.7,2024-02-24
+552,Shrek,Comedy,3.3,2024-11-29
+797,Pulp Fiction,Crime,4.6,2024-05-27
+847,Titanic,Romance,1.3,2023-11-05
+687,Avengers,Action,2.4,2024-10-18
+820,Inception,Sci-Fi,1.0,2024-09-02
+358,Avengers,Action,3.2,2025-03-01
+452,The Godfather,Crime,3.6,2024-10-26
+129,Pulp Fiction,Crime,1.8,2023-08-14
+303,Interstellar,Sci-Fi,3.0,2024-11-03
+232,Pulp Fiction,Crime,4.6,2024-02-12
+593,Avengers,Action,1.1,2024-12-16
+719,Inception,Sci-Fi,1.4,2024-09-04
+283,Finding Nemo,Animation,4.9,2024-08-19
+648,Interstellar,Sci-Fi,2.1,2025-02-16
+951,The Godfather,Crime,1.8,2024-02-17
+400,Pulp Fiction,Crime,3.3,2025-01-20
+574,Titanic,Romance,1.9,2023-12-26
+573,Finding Nemo,Animation,2.1,2024-06-23
+739,Finding Nemo,Animation,2.0,2023-11-22
+286,Inception,Sci-Fi,1.4,2023-08-15
+215,Finding Nemo,Animation,4.5,2023-12-26
+367,Finding Nemo,Animation,3.3,2023-12-23
+508,Finding Nemo,Animation,3.3,2023-11-02
+245,The Godfather,Crime,3.8,2025-06-18
+232,Titanic,Romance,2.0,2024-11-04
+250,Avengers,Action,1.8,2023-08-15
+821,Titanic,Romance,3.4,2025-01-17
+116,Avengers,Action,4.6,2025-03-01
+263,Shrek,Comedy,4.3,2023-10-30
+576,Titanic,Romance,4.1,2025-07-26
+628,Avengers,Action,4.9,2025-02-03
+715,Shrek,Comedy,2.6,2023-08-13
+348,Finding Nemo,Animation,1.3,2024-08-22
+968,Interstellar,Sci-Fi,1.1,2025-03-13
+517,Finding Nemo,Animation,1.7,2024-12-22
+615,Interstellar,Sci-Fi,5.0,2024-12-26
+680,Avengers,Action,2.3,2023-10-07
+722,Inception,Sci-Fi,1.5,2024-10-12
+481,Titanic,Romance,2.2,2025-04-18
+951,Interstellar,Sci-Fi,2.8,2024-11-04
+883,Finding Nemo,Animation,3.4,2025-03-14
+952,Pulp Fiction,Crime,2.3,2025-03-16
+568,Titanic,Romance,1.2,2024-04-05
+239,The Godfather,Crime,2.3,2024-05-31
+141,Avengers,Action,4.9,2024-02-15
+900,Avengers,Action,4.9,2024-10-11
+190,Interstellar,Sci-Fi,2.6,2023-11-26
+579,Interstellar,Sci-Fi,3.2,2025-05-02
+850,Finding Nemo,Animation,1.6,2024-10-14
+295,Titanic,Romance,4.4,2024-03-28
+315,Inception,Sci-Fi,2.8,2023-10-12
+666,Finding Nemo,Animation,2.9,2024-12-27
+806,Interstellar,Sci-Fi,2.0,2024-11-08
+978,Avengers,Action,1.4,2025-05-26
+785,Inception,Sci-Fi,4.0,2025-04-18
+372,Finding Nemo,Animation,4.0,2024-10-06
+636,Titanic,Romance,4.3,2024-07-06
+541,Shrek,Comedy,1.4,2024-12-08
+292,Titanic,Romance,2.2,2023-10-23
+955,Avengers,Action,2.2,2024-09-26
+912,Pulp Fiction,Crime,4.2,2025-01-07
+182,Shrek,Comedy,1.1,2024-10-07
+286,Interstellar,Sci-Fi,1.8,2025-01-16
+619,Inception,Sci-Fi,4.9,2024-08-13
+234,Titanic,Romance,2.1,2024-01-03
+200,Finding Nemo,Animation,2.1,2024-08-27
+717,Inception,Sci-Fi,4.1,2025-06-19
+439,Finding Nemo,Animation,2.2,2024-07-28
+462,Avengers,Action,2.4,2024-05-10
+468,The Godfather,Crime,1.8,2023-09-02
+474,Interstellar,Sci-Fi,3.6,2024-08-11
+741,Avengers,Action,3.4,2024-03-20
+241,Interstellar,Sci-Fi,1.4,2025-02-16
+616,Pulp Fiction,Crime,1.8,2024-12-03
+472,Titanic,Romance,3.2,2025-05-07
+404,Avengers,Action,4.6,2024-08-02
+908,Interstellar,Sci-Fi,4.1,2025-05-23
+323,Finding Nemo,Animation,2.4,2025-07-23
+119,Titanic,Romance,3.9,2025-05-23
+734,Avengers,Action,3.1,2024-09-07
+878,Inception,Sci-Fi,2.0,2024-04-26
+913,The Godfather,Crime,2.4,2024-09-21
+910,Pulp Fiction,Crime,3.7,2024-06-16
+361,Finding Nemo,Animation,2.5,2024-10-11
+650,Avengers,Action,1.2,2025-04-15
+115,Shrek,Comedy,1.9,2023-09-27
+930,Shrek,Comedy,2.6,2025-07-01
+467,Shrek,Comedy,4.4,2025-07-16
+235,The Godfather,Crime,4.6,2023-10-15
+250,Interstellar,Sci-Fi,1.2,2025-06-11
+750,Titanic,Romance,1.6,2024-02-24
+368,The Godfather,Crime,2.9,2024-01-18
+378,Interstellar,Sci-Fi,4.7,2023-12-28
+344,Avengers,Action,4.1,2023-10-03
+969,Finding Nemo,Animation,3.5,2025-07-25
+333,Finding Nemo,Animation,4.5,2024-11-14
+139,Interstellar,Sci-Fi,2.3,2023-08-07
+199,Avengers,Action,1.5,2025-03-23
+965,Interstellar,Sci-Fi,2.7,2024-12-20
+646,Finding Nemo,Animation,1.3,2025-04-16
+492,Titanic,Romance,3.6,2023-10-06
+203,Shrek,Comedy,4.9,2025-02-22
+487,Avengers,Action,3.1,2024-12-22
+186,Pulp Fiction,Crime,3.4,2024-06-15
+500,Avengers,Action,4.5,2024-05-08
+463,The Godfather,Crime,2.7,2025-07-11
+887,Inception,Sci-Fi,2.5,2024-06-15
+307,Avengers,Action,3.4,2024-08-11
+456,Shrek,Comedy,2.2,2024-01-12
+584,The Godfather,Crime,4.1,2024-06-08
+559,Inception,Sci-Fi,3.5,2025-03-25
+630,Titanic,Romance,2.1,2025-04-06
+284,Shrek,Comedy,4.5,2024-11-08
+570,Shrek,Comedy,1.2,2024-04-19
+232,Finding Nemo,Animation,4.4,2025-01-22
+377,Titanic,Romance,1.7,2024-04-27
+803,Interstellar,Sci-Fi,1.4,2025-05-07
+997,Pulp Fiction,Crime,1.1,2023-10-11
+306,The Godfather,Crime,2.7,2024-05-09
+318,Titanic,Romance,5.0,2024-09-30
+549,Finding Nemo,Animation,4.5,2023-10-18
+189,Titanic,Romance,1.3,2025-03-08
+223,Interstellar,Sci-Fi,2.9,2024-06-18
+208,The Godfather,Crime,1.2,2023-11-19
+222,Shrek,Comedy,3.3,2023-11-14
+546,Interstellar,Sci-Fi,3.4,2024-04-26
+202,Titanic,Romance,2.3,2023-12-11
+270,Interstellar,Sci-Fi,4.3,2025-02-23
+814,Finding Nemo,Animation,2.1,2024-11-19
+952,Interstellar,Sci-Fi,1.1,2024-09-02
+376,Inception,Sci-Fi,4.6,2025-05-12
+314,Finding Nemo,Animation,1.6,2023-10-28
+444,The Godfather,Crime,2.2,2023-08-19
+703,Titanic,Romance,2.6,2024-09-27
+754,Avengers,Action,3.9,2024-11-10
+280,Inception,Sci-Fi,4.6,2024-12-26
+996,Titanic,Romance,4.1,2023-10-21
+402,Finding Nemo,Animation,3.4,2024-04-28
+697,Inception,Sci-Fi,3.1,2025-06-23
+903,Titanic,Romance,2.6,2024-02-22
+980,The Godfather,Crime,1.2,2024-10-14
+660,Titanic,Romance,2.1,2024-10-13
+636,Interstellar,Sci-Fi,2.5,2024-01-18
+345,Shrek,Comedy,1.1,2025-02-17
+430,Shrek,Comedy,3.9,2025-02-07
+709,Shrek,Comedy,1.2,2025-03-28
+464,Pulp Fiction,Crime,3.1,2025-06-11
+960,Pulp Fiction,Crime,2.3,2024-11-11
+532,Avengers,Action,3.3,2024-07-17
+834,Pulp Fiction,Crime,1.5,2023-09-09
+368,The Godfather,Crime,4.5,2024-04-24
+554,Avengers,Action,4.8,2024-09-28
+723,Avengers,Action,3.4,2024-06-30
+241,Interstellar,Sci-Fi,1.8,2024-04-23
+471,Pulp Fiction,Crime,1.8,2025-06-21
+493,The Godfather,Crime,3.5,2025-02-01
+163,Avengers,Action,3.9,2024-10-16
+967,Shrek,Comedy,4.4,2025-05-24
+959,Pulp Fiction,Crime,3.5,2024-02-18
+504,Interstellar,Sci-Fi,3.4,2023-10-04
+864,Pulp Fiction,Crime,2.4,2024-03-08
+761,Inception,Sci-Fi,2.4,2024-03-20
+489,Avengers,Action,1.1,2023-09-13
+175,Finding Nemo,Animation,2.0,2024-11-19
+425,Interstellar,Sci-Fi,1.6,2024-03-18
+681,Shrek,Comedy,3.7,2024-05-09
+928,Titanic,Romance,3.5,2023-12-12
+815,Interstellar,Sci-Fi,3.1,2023-11-19
+578,Titanic,Romance,3.1,2024-05-10
+451,Pulp Fiction,Crime,3.4,2024-12-21
+567,Interstellar,Sci-Fi,2.2,2025-02-28
+576,Inception,Sci-Fi,2.2,2025-06-01
+888,Titanic,Romance,4.2,2025-01-15
+724,Finding Nemo,Animation,3.6,2023-09-04
+383,The Godfather,Crime,3.4,2023-09-30
+281,Shrek,Comedy,2.3,2024-12-16
+371,Inception,Sci-Fi,2.2,2025-06-04
+939,Inception,Sci-Fi,2.3,2025-03-15
+834,Titanic,Romance,1.7,2023-12-01
+844,Interstellar,Sci-Fi,4.0,2024-08-16
+752,Finding Nemo,Animation,1.5,2025-03-27
+239,Shrek,Comedy,3.6,2025-07-03
+610,Pulp Fiction,Crime,3.3,2024-04-03
+728,Inception,Sci-Fi,1.1,2025-05-13
+447,Shrek,Comedy,3.6,2024-08-11
+705,Pulp Fiction,Crime,1.1,2024-10-15
+871,Avengers,Action,2.8,2023-10-07
+663,Avengers,Action,1.4,2025-03-03
+552,Interstellar,Sci-Fi,4.6,2024-11-14
+159,Pulp Fiction,Crime,2.2,2023-09-20
+518,Pulp Fiction,Crime,1.8,2024-03-22
+165,Titanic,Romance,2.4,2024-07-17
+250,Shrek,Comedy,4.6,2024-09-04
+487,Titanic,Romance,2.7,2024-12-03
+684,Avengers,Action,2.2,2024-12-04
+636,The Godfather,Crime,4.0,2023-11-11
+847,Finding Nemo,Animation,1.6,2025-04-12
+177,Shrek,Comedy,1.9,2025-07-28
+341,Pulp Fiction,Crime,1.4,2025-07-23
+182,Shrek,Comedy,1.3,2025-03-29
+969,The Godfather,Crime,3.1,2025-06-02
+959,Pulp Fiction,Crime,2.8,2025-04-20
+836,Titanic,Romance,1.3,2023-08-31
+930,The Godfather,Crime,3.3,2024-08-17
+703,Finding Nemo,Animation,4.5,2024-06-25
+271,Interstellar,Sci-Fi,3.5,2024-07-22
+337,Avengers,Action,1.6,2024-02-22
+915,Interstellar,Sci-Fi,4.3,2023-09-29
+463,Interstellar,Sci-Fi,1.9,2024-01-09
+932,Titanic,Romance,3.6,2025-01-14
+920,Shrek,Comedy,3.4,2024-09-04
+415,The Godfather,Crime,4.4,2024-12-26
+406,Shrek,Comedy,2.9,2023-08-08
+396,Inception,Sci-Fi,1.2,2024-11-06
+979,Interstellar,Sci-Fi,3.3,2024-11-05
+101,The Godfather,Crime,3.2,2025-01-14
+884,The Godfather,Crime,3.5,2025-02-10
+551,Titanic,Romance,3.2,2025-07-12
+813,Inception,Sci-Fi,1.4,2024-02-26
+976,Avengers,Action,4.6,2023-10-30
+273,Shrek,Comedy,1.3,2025-05-23
+400,Finding Nemo,Animation,3.4,2023-08-04
+269,Finding Nemo,Animation,2.9,2025-04-28
+696,Shrek,Comedy,2.4,2024-04-21
+856,Shrek,Comedy,2.4,2023-11-13
+718,Interstellar,Sci-Fi,4.9,2024-04-02
+771,Avengers,Action,2.9,2024-06-01
+598,Pulp Fiction,Crime,4.3,2025-07-31
+450,Interstellar,Sci-Fi,3.9,2025-07-04
+587,Avengers,Action,3.0,2025-07-13
+564,Finding Nemo,Animation,2.2,2023-09-17
+875,Pulp Fiction,Crime,1.1,2024-11-01
+422,Interstellar,Sci-Fi,1.9,2023-10-17
+633,Avengers,Action,4.8,2023-09-15
+708,Inception,Sci-Fi,4.2,2025-06-15
+193,Avengers,Action,3.6,2023-10-17
+255,Inception,Sci-Fi,4.2,2025-05-10
+704,Titanic,Romance,4.5,2023-09-03
+289,Finding Nemo,Animation,2.0,2024-12-12
+507,Finding Nemo,Animation,1.5,2024-12-02
+610,Pulp Fiction,Crime,2.5,2025-07-22
+238,Interstellar,Sci-Fi,1.6,2025-01-04
+366,The Godfather,Crime,3.5,2025-03-18
+542,Titanic,Romance,3.8,2025-04-19
+803,Finding Nemo,Animation,3.7,2025-01-28
+252,Finding Nemo,Animation,3.4,2025-02-06
+437,The Godfather,Crime,4.9,2024-11-17
+132,Titanic,Romance,2.7,2023-11-08
+418,The Godfather,Crime,4.6,2025-05-03
+259,Titanic,Romance,3.3,2023-08-24
+431,Finding Nemo,Animation,2.5,2024-06-02
+674,Inception,Sci-Fi,4.9,2023-09-21
+339,Titanic,Romance,4.6,2024-02-26
+725,Interstellar,Sci-Fi,3.1,2024-11-22
+933,Inception,Sci-Fi,4.9,2025-05-11
+102,The Godfather,Crime,2.6,2023-09-21
+984,Pulp Fiction,Crime,1.7,2025-02-20
+589,Titanic,Romance,2.5,2024-10-09
+325,Pulp Fiction,Crime,4.2,2024-03-17
+554,Finding Nemo,Animation,4.0,2023-12-01
+160,Inception,Sci-Fi,2.8,2024-05-22
+502,Pulp Fiction,Crime,3.8,2023-09-15
+460,Inception,Sci-Fi,4.1,2024-10-01
+756,Inception,Sci-Fi,3.3,2025-05-02
+475,Inception,Sci-Fi,2.9,2025-05-29
+648,Finding Nemo,Animation,4.9,2024-11-18
+474,Pulp Fiction,Crime,1.2,2025-04-26
+752,Avengers,Action,3.0,2025-01-15
+731,Inception,Sci-Fi,1.1,2024-06-18
+596,Shrek,Comedy,3.5,2023-11-04
+821,Inception,Sci-Fi,2.6,2023-12-23
+129,Pulp Fiction,Crime,1.4,2025-04-23
+343,Titanic,Romance,4.7,2023-08-03
+996,Shrek,Comedy,2.6,2024-01-06
+312,Interstellar,Sci-Fi,4.0,2024-01-13
+995,Interstellar,Sci-Fi,2.4,2025-01-26
+733,Pulp Fiction,Crime,4.7,2023-10-01
+384,Finding Nemo,Animation,4.1,2023-12-04
+902,Pulp Fiction,Crime,3.1,2024-06-23
+664,Inception,Sci-Fi,4.0,2024-06-07
+916,Inception,Sci-Fi,1.3,2025-04-27
+823,Inception,Sci-Fi,3.0,2024-10-21
+336,Titanic,Romance,2.3,2025-04-15
+523,Shrek,Comedy,3.0,2024-04-11
+174,Titanic,Romance,3.6,2023-09-05
+210,Avengers,Action,3.6,2025-05-24
+782,Pulp Fiction,Crime,1.9,2023-12-10
+373,Interstellar,Sci-Fi,3.2,2023-08-27
+957,Pulp Fiction,Crime,2.0,2023-12-11
+774,Titanic,Romance,1.9,2025-04-23
+826,The Godfather,Crime,1.8,2025-01-02
+495,Inception,Sci-Fi,4.0,2025-02-26
+528,Titanic,Romance,3.9,2024-05-07
+867,Pulp Fiction,Crime,4.5,2024-07-04
+756,Inception,Sci-Fi,3.2,2024-12-05
+133,Avengers,Action,4.4,2024-02-14
+945,Interstellar,Sci-Fi,1.3,2024-09-10
+564,Pulp Fiction,Crime,4.5,2024-03-06
+346,The Godfather,Crime,1.4,2024-04-09
+974,Shrek,Comedy,4.6,2023-10-31
+505,Finding Nemo,Animation,4.6,2025-06-12
+323,Inception,Sci-Fi,1.1,2024-10-25
+927,Shrek,Comedy,4.9,2024-11-11
+920,Inception,Sci-Fi,1.7,2024-11-03
+184,Interstellar,Sci-Fi,4.9,2023-09-22
+213,Inception,Sci-Fi,4.5,2024-09-20
+366,Interstellar,Sci-Fi,2.5,2025-02-07
+883,Avengers,Action,4.9,2024-03-28
+421,Interstellar,Sci-Fi,4.0,2024-05-19
+298,Avengers,Action,3.4,2024-10-30
+376,Titanic,Romance,3.0,2025-06-08
+387,Pulp Fiction,Crime,3.4,2024-09-24
+796,Inception,Sci-Fi,2.8,2024-03-03
+340,Avengers,Action,3.7,2023-11-14
+214,Titanic,Romance,2.8,2023-10-08
+762,Avengers,Action,2.8,2024-12-30
+427,Pulp Fiction,Crime,2.8,2024-01-11
+681,Inception,Sci-Fi,3.5,2024-05-05
+455,Finding Nemo,Animation,2.2,2024-02-13
+683,Interstellar,Sci-Fi,3.1,2023-11-28
+591,The Godfather,Crime,4.0,2025-05-24
+392,Pulp Fiction,Crime,4.4,2023-11-06
+249,Shrek,Comedy,3.6,2025-05-01
+270,The Godfather,Crime,4.5,2024-06-21
+524,Inception,Sci-Fi,1.2,2024-02-13
+848,Titanic,Romance,1.3,2025-05-17
+705,Interstellar,Sci-Fi,1.2,2024-05-24
+798,The Godfather,Crime,1.8,2024-03-11
+205,The Godfather,Crime,2.6,2025-01-08
+814,Avengers,Action,1.7,2025-03-01
+948,Shrek,Comedy,4.6,2023-08-30
+517,Shrek,Comedy,1.2,2023-11-04
+516,The Godfather,Crime,1.2,2025-01-07
+210,Shrek,Comedy,1.4,2025-04-19
+493,Inception,Sci-Fi,4.1,2024-12-21
+190,Avengers,Action,3.8,2025-07-07
+405,Pulp Fiction,Crime,1.9,2023-10-29
+295,The Godfather,Crime,3.8,2025-04-16
+309,Shrek,Comedy,4.8,2025-05-17
+112,The Godfather,Crime,2.0,2024-04-20
+226,Pulp Fiction,Crime,4.0,2023-10-25
+599,Interstellar,Sci-Fi,2.5,2025-07-19
+271,Titanic,Romance,2.9,2025-01-27
+606,Titanic,Romance,3.2,2024-10-17
+101,Pulp Fiction,Crime,3.1,2023-12-27
+373,Inception,Sci-Fi,3.1,2024-11-19
+551,Shrek,Comedy,4.7,2024-11-22
+808,The Godfather,Crime,4.5,2024-05-08
+435,Finding Nemo,Animation,2.6,2024-07-12
+646,Titanic,Romance,3.0,2023-11-10
+460,Interstellar,Sci-Fi,3.6,2025-01-08
+286,Finding Nemo,Animation,1.7,2024-02-19
+549,Finding Nemo,Animation,2.0,2024-03-16
+707,Avengers,Action,3.6,2025-07-14
+772,The Godfather,Crime,1.9,2023-12-03
+971,Titanic,Romance,3.0,2023-10-27
+232,Inception,Sci-Fi,1.0,2024-04-15
+863,Titanic,Romance,4.5,2025-04-03
+597,Finding Nemo,Animation,4.4,2024-02-01
+117,Finding Nemo,Animation,2.6,2024-01-24
+371,Pulp Fiction,Crime,1.6,2024-12-28
+431,Interstellar,Sci-Fi,2.3,2025-05-15
+645,The Godfather,Crime,3.8,2024-01-27
+302,Avengers,Action,4.1,2023-09-22
+177,Interstellar,Sci-Fi,2.9,2025-02-21
+990,Inception,Sci-Fi,3.9,2025-02-02
+299,The Godfather,Crime,1.8,2025-02-07
+303,Inception,Sci-Fi,4.1,2025-05-16
+810,Inception,Sci-Fi,2.9,2024-03-21
+817,Shrek,Comedy,1.9,2024-03-19
+495,Pulp Fiction,Crime,4.6,2024-02-14
+472,Pulp Fiction,Crime,4.9,2024-07-19
+901,Finding Nemo,Animation,3.8,2025-05-20
+978,Interstellar,Sci-Fi,3.8,2024-08-04
+712,Avengers,Action,3.8,2024-07-18
+202,Avengers,Action,1.6,2024-01-31
+150,Inception,Sci-Fi,2.4,2024-09-15
+833,Avengers,Action,4.4,2025-06-09
+137,Titanic,Romance,1.9,2024-11-25
+102,Avengers,Action,2.2,2024-06-13
+728,Finding Nemo,Animation,1.9,2024-10-13
+893,Shrek,Comedy,2.0,2024-11-15
+500,Avengers,Action,3.9,2025-01-08
+458,Pulp Fiction,Crime,2.7,2024-10-16
+502,The Godfather,Crime,3.4,2025-01-30
+537,The Godfather,Crime,2.2,2024-04-03
+371,Finding Nemo,Animation,3.6,2024-11-11
+299,Titanic,Romance,1.1,2025-03-12
+121,Finding Nemo,Animation,4.4,2023-10-27
+637,The Godfather,Crime,3.0,2023-10-21
+852,The Godfather,Crime,1.4,2024-02-29
+518,Inception,Sci-Fi,1.7,2025-07-24
+811,The Godfather,Crime,1.4,2023-12-31
+970,Inception,Sci-Fi,1.9,2025-07-03
+509,Titanic,Romance,2.2,2023-09-25
+147,Finding Nemo,Animation,2.5,2025-03-13
+666,Pulp Fiction,Crime,2.4,2024-04-06
+905,Avengers,Action,1.9,2024-03-29
+379,Interstellar,Sci-Fi,2.2,2025-05-01
+831,Titanic,Romance,1.8,2025-05-15
+778,Interstellar,Sci-Fi,3.3,2025-06-11
+466,Interstellar,Sci-Fi,2.5,2025-01-13
+243,Finding Nemo,Animation,3.0,2024-12-25
+136,Interstellar,Sci-Fi,4.6,2023-11-12
+537,Inception,Sci-Fi,2.6,2024-09-17
+555,Interstellar,Sci-Fi,3.9,2023-09-11
+273,Titanic,Romance,4.6,2024-12-13
+726,The Godfather,Crime,2.9,2024-07-29
+505,Finding Nemo,Animation,1.3,2024-01-12
+548,Finding Nemo,Animation,1.6,2024-09-12
+452,Interstellar,Sci-Fi,1.7,2024-10-31
+385,Interstellar,Sci-Fi,4.6,2023-12-25
+130,Pulp Fiction,Crime,1.4,2025-07-13
+427,Pulp Fiction,Crime,2.8,2024-08-20
+610,Interstellar,Sci-Fi,1.1,2025-01-17
+234,The Godfather,Crime,3.6,2025-07-11
+706,Titanic,Romance,1.7,2025-01-10
+613,Finding Nemo,Animation,4.3,2024-07-02
+841,Finding Nemo,Animation,1.9,2024-09-14
+514,Interstellar,Sci-Fi,4.4,2023-10-27
+524,Inception,Sci-Fi,4.2,2024-07-05
+460,Shrek,Comedy,4.9,2023-11-17
+574,Finding Nemo,Animation,2.0,2025-04-10
+661,The Godfather,Crime,1.9,2023-10-16
+877,Shrek,Comedy,1.6,2025-02-01
+474,Pulp Fiction,Crime,2.5,2024-04-05
+554,The Godfather,Crime,3.0,2024-05-26
+894,The Godfather,Crime,1.6,2024-03-19
+441,Avengers,Action,3.8,2023-12-06
+695,The Godfather,Crime,4.9,2024-01-06
+615,Finding Nemo,Animation,4.0,2024-04-05
+111,Finding Nemo,Animation,1.5,2025-02-08
+953,Interstellar,Sci-Fi,1.7,2023-10-29
+293,Titanic,Romance,4.9,2024-10-22
+901,Pulp Fiction,Crime,4.6,2024-10-10
+379,Inception,Sci-Fi,1.1,2024-03-07
+877,Shrek,Comedy,3.2,2023-10-18
+157,Inception,Sci-Fi,4.6,2023-08-08
+285,Titanic,Romance,4.1,2023-08-05
+142,Interstellar,Sci-Fi,4.9,2025-03-13
+384,Interstellar,Sci-Fi,3.1,2023-12-19
+434,Avengers,Action,1.2,2025-05-19
+358,The Godfather,Crime,2.7,2025-03-10
+757,Titanic,Romance,1.0,2025-05-22
+396,Avengers,Action,2.7,2024-04-04
+375,Titanic,Romance,3.5,2023-12-27
+244,Shrek,Comedy,1.7,2024-09-08
+619,The Godfather,Crime,1.6,2024-01-03
+472,Avengers,Action,3.2,2024-12-09
+619,Titanic,Romance,4.2,2025-06-29
+958,Finding Nemo,Animation,1.2,2025-06-08
+907,Interstellar,Sci-Fi,4.6,2025-05-10
+985,Pulp Fiction,Crime,3.3,2023-11-22
+523,Interstellar,Sci-Fi,1.6,2024-07-15
+775,The Godfather,Crime,4.8,2024-10-07
+941,Shrek,Comedy,1.5,2024-09-07
+384,Inception,Sci-Fi,2.7,2024-03-01
+366,Finding Nemo,Animation,4.1,2024-11-28
+150,Shrek,Comedy,2.0,2024-02-23
+586,Finding Nemo,Animation,3.5,2024-03-28
+237,The Godfather,Crime,1.1,2024-12-17
+981,Interstellar,Sci-Fi,3.9,2024-03-19
+329,Finding Nemo,Animation,2.3,2025-06-22
+388,Pulp Fiction,Crime,2.4,2025-01-08
+502,The Godfather,Crime,4.5,2024-09-08
+496,Avengers,Action,1.1,2023-11-16
+414,Avengers,Action,3.3,2024-07-17
+238,Finding Nemo,Animation,3.1,2024-05-25
+226,Inception,Sci-Fi,4.3,2024-02-03
+764,Pulp Fiction,Crime,4.8,2024-02-25
+630,Shrek,Comedy,1.1,2023-08-14
+632,Titanic,Romance,3.5,2024-06-22
+235,Finding Nemo,Animation,2.4,2024-11-05
+179,Interstellar,Sci-Fi,1.3,2024-02-28
+266,Inception,Sci-Fi,3.4,2025-02-07
+935,Shrek,Comedy,1.2,2025-07-26
+314,Avengers,Action,4.3,2023-08-04
+134,Pulp Fiction,Crime,4.5,2024-11-26
+433,Interstellar,Sci-Fi,1.1,2025-07-21
+938,Avengers,Action,4.7,2025-06-16
+539,Finding Nemo,Animation,2.6,2025-04-12
+621,Titanic,Romance,4.1,2024-11-16
+169,Inception,Sci-Fi,1.1,2024-02-02
+222,Shrek,Comedy,2.2,2024-08-07
+962,Inception,Sci-Fi,3.5,2024-11-13
+192,Finding Nemo,Animation,3.0,2023-09-27
+336,Titanic,Romance,2.4,2024-01-31
+262,Finding Nemo,Animation,4.7,2023-10-26
+352,Pulp Fiction,Crime,4.6,2024-02-02
+881,The Godfather,Crime,1.2,2024-05-21
+644,Shrek,Comedy,4.5,2025-03-03
+742,The Godfather,Crime,3.4,2024-09-25
+342,The Godfather,Crime,3.3,2025-02-08
+421,Finding Nemo,Animation,4.9,2025-03-10
+292,Pulp Fiction,Crime,2.1,2025-02-26
+735,Shrek,Comedy,3.8,2024-08-17
+268,Interstellar,Sci-Fi,1.8,2025-03-17
+455,Avengers,Action,2.2,2024-02-02
+767,Finding Nemo,Animation,2.5,2025-04-09
+271,Avengers,Action,4.2,2024-06-08
+547,Interstellar,Sci-Fi,1.2,2024-09-16
+749,Finding Nemo,Animation,2.1,2023-10-09
+166,Inception,Sci-Fi,4.1,2024-08-31
+271,Pulp Fiction,Crime,3.7,2025-03-12
+843,Titanic,Romance,1.2,2023-08-14
+970,Inception,Sci-Fi,1.4,2024-12-18
+420,Shrek,Comedy,2.7,2023-11-15
+962,Inception,Sci-Fi,3.1,2024-02-28
+899,Pulp Fiction,Crime,4.3,2024-05-27
+819,Pulp Fiction,Crime,4.9,2024-11-05
+116,Avengers,Action,4.8,2024-02-26
+177,Shrek,Comedy,3.8,2024-07-19
+370,Interstellar,Sci-Fi,2.4,2024-11-15
+720,Avengers,Action,4.7,2024-10-02
+506,The Godfather,Crime,2.0,2024-04-03
+482,The Godfather,Crime,1.3,2024-06-08
+541,Interstellar,Sci-Fi,4.1,2023-09-01
+987,Pulp Fiction,Crime,1.3,2024-09-01
+902,Finding Nemo,Animation,1.8,2025-02-06
+111,Shrek,Comedy,1.3,2023-10-27
+386,Avengers,Action,4.5,2024-06-15
+443,Titanic,Romance,1.7,2025-01-24
+146,Titanic,Romance,1.7,2023-11-15
+133,The Godfather,Crime,3.8,2024-04-09
+210,The Godfather,Crime,1.3,2025-05-30
+483,Pulp Fiction,Crime,3.8,2024-09-01
+514,The Godfather,Crime,2.2,2024-11-30
+660,Titanic,Romance,1.3,2023-10-01
+981,Finding Nemo,Animation,3.1,2024-02-19
+895,Inception,Sci-Fi,4.2,2025-03-20
+145,Titanic,Romance,2.0,2024-11-03
+478,The Godfather,Crime,4.6,2023-10-06
+164,Shrek,Comedy,4.8,2024-05-10
+825,Inception,Sci-Fi,3.4,2024-01-13
+708,Pulp Fiction,Crime,1.3,2023-11-04
+347,Shrek,Comedy,3.6,2025-05-11
+777,Pulp Fiction,Crime,1.5,2024-12-27
+247,Inception,Sci-Fi,1.4,2024-06-24
+375,Titanic,Romance,4.6,2025-07-02
+102,Finding Nemo,Animation,1.4,2024-11-16
+721,Inception,Sci-Fi,3.8,2023-12-19
+488,Inception,Sci-Fi,2.9,2025-04-30
+197,Titanic,Romance,3.2,2025-06-05
+673,Inception,Sci-Fi,3.5,2023-10-20
+262,Inception,Sci-Fi,1.9,2025-07-14
+355,Shrek,Comedy,2.6,2025-05-02
+871,Finding Nemo,Animation,3.4,2023-08-14
+643,Finding Nemo,Animation,4.1,2024-06-08
+575,Finding Nemo,Animation,1.6,2025-02-13
+616,Finding Nemo,Animation,4.9,2024-05-30
+936,Shrek,Comedy,1.3,2024-03-03
+273,Titanic,Romance,1.5,2023-08-13
+324,Avengers,Action,2.1,2024-10-03
+649,Shrek,Comedy,3.1,2024-04-17
+940,Finding Nemo,Animation,4.4,2024-06-11
+274,The Godfather,Crime,3.5,2023-12-16
+500,Shrek,Comedy,3.5,2023-09-09
+553,Avengers,Action,2.2,2023-11-04
+350,Inception,Sci-Fi,4.5,2023-11-01
+810,Titanic,Romance,2.2,2025-01-13
+120,Avengers,Action,1.1,2023-12-15
+568,Interstellar,Sci-Fi,3.4,2025-02-12
+680,Titanic,Romance,3.8,2024-05-11
+734,Inception,Sci-Fi,1.6,2023-08-06
+818,Shrek,Comedy,3.1,2025-04-01
+730,Inception,Sci-Fi,3.9,2024-07-29
+944,Inception,Sci-Fi,3.0,2024-12-22
+237,Avengers,Action,3.6,2025-03-22
+524,The Godfather,Crime,2.8,2024-06-12
+310,Titanic,Romance,1.7,2024-08-23
+502,Inception,Sci-Fi,3.3,2025-05-15
+851,Pulp Fiction,Crime,4.9,2023-08-15
+379,Finding Nemo,Animation,4.2,2023-08-09
+233,Pulp Fiction,Crime,2.0,2025-07-22
+416,Inception,Sci-Fi,3.4,2024-08-07
+934,Finding Nemo,Animation,3.7,2024-05-25
+747,Finding Nemo,Animation,2.0,2024-10-21
+945,The Godfather,Crime,3.0,2024-05-21
+650,Inception,Sci-Fi,4.4,2024-07-11
+160,Avengers,Action,3.5,2023-09-04
+572,Pulp Fiction,Crime,4.5,2024-03-24
+113,Shrek,Comedy,2.7,2025-02-18
+873,Pulp Fiction,Crime,4.5,2025-02-09
+581,Inception,Sci-Fi,3.8,2024-07-18
+453,Titanic,Romance,1.9,2024-12-22
+834,Pulp Fiction,Crime,3.6,2025-05-28
+220,Interstellar,Sci-Fi,3.6,2024-03-04
+796,Finding Nemo,Animation,3.9,2025-04-28
+820,Pulp Fiction,Crime,4.1,2023-10-06
+937,Avengers,Action,4.2,2024-09-14
+651,Titanic,Romance,1.1,2023-11-27
+913,Interstellar,Sci-Fi,3.3,2024-10-17
+811,Titanic,Romance,2.0,2025-03-17
+506,Avengers,Action,4.1,2025-04-16
+603,The Godfather,Crime,2.1,2023-10-05
+891,Avengers,Action,3.7,2023-08-26
+321,Inception,Sci-Fi,2.5,2025-02-01
+278,Interstellar,Sci-Fi,2.0,2023-12-01
+482,Pulp Fiction,Crime,4.4,2024-10-27
+341,Avengers,Action,4.8,2023-09-24
+728,Shrek,Comedy,4.1,2024-06-10
+256,Shrek,Comedy,4.0,2025-04-16
+175,Shrek,Comedy,3.1,2024-12-15
+633,Inception,Sci-Fi,3.9,2025-02-21
+320,Pulp Fiction,Crime,4.4,2023-08-18
+165,Shrek,Comedy,3.1,2024-07-08
+325,Finding Nemo,Animation,1.2,2024-12-12
+126,The Godfather,Crime,4.9,2024-08-28
+257,Titanic,Romance,4.5,2023-08-19
+504,The Godfather,Crime,4.2,2024-04-08
+809,Finding Nemo,Animation,3.9,2024-06-12
+160,Titanic,Romance,2.2,2023-11-09
+784,Shrek,Comedy,3.8,2023-10-05
+678,Interstellar,Sci-Fi,2.6,2023-08-14
+607,Titanic,Romance,4.7,2025-04-18
+716,The Godfather,Crime,2.7,2024-05-23
+805,Avengers,Action,4.2,2025-02-08
+384,Avengers,Action,3.9,2024-03-29
+380,Pulp Fiction,Crime,4.6,2024-11-08
+866,Finding Nemo,Animation,3.4,2024-08-13
+862,Shrek,Comedy,1.4,2025-01-05
+512,Avengers,Action,2.1,2024-09-09
+131,Titanic,Romance,1.0,2024-08-27
+558,Shrek,Comedy,1.3,2024-11-12
+622,Avengers,Action,2.8,2024-02-26
+594,The Godfather,Crime,2.0,2024-02-28
+438,Shrek,Comedy,4.6,2023-08-09
+933,Finding Nemo,Animation,3.4,2025-01-06
+686,Finding Nemo,Animation,2.6,2024-04-25
+743,Finding Nemo,Animation,1.6,2023-12-01
+107,Interstellar,Sci-Fi,2.0,2024-12-28
+773,Pulp Fiction,Crime,1.3,2024-07-01
+481,Shrek,Comedy,4.2,2023-09-25
+572,Avengers,Action,4.6,2024-12-04
+522,Titanic,Romance,4.6,2024-01-29
+553,Pulp Fiction,Crime,3.9,2024-06-16
+467,Inception,Sci-Fi,3.2,2025-05-25
+413,Finding Nemo,Animation,4.2,2023-08-07
+414,Pulp Fiction,Crime,2.9,2024-09-05
+641,Avengers,Action,5.0,2023-10-27
+555,Interstellar,Sci-Fi,1.4,2023-09-17
+303,Titanic,Romance,2.9,2024-10-29
+521,Titanic,Romance,1.0,2024-12-28
+755,Pulp Fiction,Crime,1.5,2025-02-11
+170,Titanic,Romance,2.0,2024-04-23
+232,Pulp Fiction,Crime,3.6,2024-02-29
+965,Avengers,Action,3.4,2024-07-09
+604,Titanic,Romance,1.9,2023-12-02
+693,The Godfather,Crime,3.0,2024-02-23
+204,Interstellar,Sci-Fi,1.5,2024-02-02
+309,Inception,Sci-Fi,3.4,2023-09-30
+257,Interstellar,Sci-Fi,3.2,2023-10-29
+550,Shrek,Comedy,1.4,2024-12-07
+852,Finding Nemo,Animation,3.8,2023-12-14
+880,Pulp Fiction,Crime,1.7,2024-11-07
+410,Pulp Fiction,Crime,4.9,2025-05-17
+453,Interstellar,Sci-Fi,2.1,2023-08-16
+928,Titanic,Romance,2.4,2024-04-22
+848,Avengers,Action,1.1,2023-12-08
+471,Inception,Sci-Fi,2.6,2023-08-31
+664,Pulp Fiction,Crime,1.1,2025-05-23
+141,Finding Nemo,Animation,4.6,2023-10-22
+648,Avengers,Action,4.1,2025-03-12
+431,Inception,Sci-Fi,1.5,2024-05-29
+290,Finding Nemo,Animation,2.8,2023-09-11
+516,The Godfather,Crime,2.3,2024-10-28
+394,Avengers,Action,4.0,2024-07-06
+479,Avengers,Action,4.4,2024-03-03
+271,Shrek,Comedy,2.5,2023-12-06
+327,Titanic,Romance,4.5,2025-03-23
+190,Inception,Sci-Fi,2.8,2024-09-07
+778,Avengers,Action,1.9,2024-06-18
+400,Pulp Fiction,Crime,2.9,2025-07-06
+384,Titanic,Romance,4.9,2023-08-29
+441,Shrek,Comedy,3.4,2025-01-14
+816,Inception,Sci-Fi,1.7,2025-06-17
+827,Inception,Sci-Fi,4.4,2024-08-12
+279,Titanic,Romance,3.3,2024-01-07
+938,The Godfather,Crime,3.3,2025-05-16
+154,Avengers,Action,2.7,2025-03-13
+108,Finding Nemo,Animation,4.1,2024-09-29
+778,Inception,Sci-Fi,4.3,2024-08-03
+210,Shrek,Comedy,2.9,2023-12-11
+395,Shrek,Comedy,4.6,2025-02-17
+225,The Godfather,Crime,4.0,2024-10-08
+255,Pulp Fiction,Crime,2.6,2024-03-12
+794,The Godfather,Crime,4.5,2024-07-11
+195,Pulp Fiction,Crime,3.7,2025-05-20
+970,Finding Nemo,Animation,3.2,2025-02-26
+158,Titanic,Romance,1.0,2023-09-07
+278,Interstellar,Sci-Fi,1.6,2024-08-16
+252,The Godfather,Crime,2.7,2025-05-26
+470,Shrek,Comedy,4.5,2024-07-28
+581,Inception,Sci-Fi,3.1,2023-10-04
+505,Avengers,Action,3.1,2025-06-05
+332,Titanic,Romance,3.0,2023-11-08
+274,Finding Nemo,Animation,2.3,2024-01-30
+875,Shrek,Comedy,1.6,2024-10-08
+399,Shrek,Comedy,2.9,2023-08-16
+816,Interstellar,Sci-Fi,2.4,2023-10-28
+351,Interstellar,Sci-Fi,3.9,2025-04-17
+944,Finding Nemo,Animation,3.9,2025-03-02
+431,Pulp Fiction,Crime,5.0,2023-09-20
+797,Finding Nemo,Animation,1.3,2024-04-30
+766,Pulp Fiction,Crime,3.4,2024-01-01
+940,Finding Nemo,Animation,2.4,2025-04-25
+595,Interstellar,Sci-Fi,3.3,2024-05-25
+963,Shrek,Comedy,2.0,2024-04-05
+356,Pulp Fiction,Crime,3.8,2025-05-14
+218,Pulp Fiction,Crime,1.6,2024-07-13
+323,Titanic,Romance,1.4,2024-05-21
+953,The Godfather,Crime,4.0,2025-07-28
+808,Titanic,Romance,3.9,2024-03-04
+422,Finding Nemo,Animation,2.0,2024-10-11
+508,Shrek,Comedy,1.2,2023-10-08
+868,Pulp Fiction,Crime,1.9,2023-10-12
+850,Inception,Sci-Fi,3.2,2024-09-29
+222,Pulp Fiction,Crime,2.2,2025-06-19
+862,Finding Nemo,Animation,3.2,2025-04-16
+100,Inception,Sci-Fi,2.7,2023-12-08
+572,Avengers,Action,2.7,2024-03-20
+499,Titanic,Romance,4.2,2023-11-27
+430,Inception,Sci-Fi,4.1,2023-12-09
+114,The Godfather,Crime,1.7,2025-06-02
+111,Interstellar,Sci-Fi,5.0,2025-05-19
+316,The Godfather,Crime,3.2,2025-02-15
+348,Pulp Fiction,Crime,2.9,2025-02-24
+902,Inception,Sci-Fi,3.1,2023-11-17
+831,Avengers,Action,2.4,2024-08-30
+337,Shrek,Comedy,2.3,2025-07-13
+956,Pulp Fiction,Crime,3.9,2024-09-02
+275,Avengers,Action,4.4,2024-05-12
+268,Titanic,Romance,1.3,2024-10-03
+369,Avengers,Action,2.5,2025-04-11
+666,Inception,Sci-Fi,1.2,2023-10-06
+624,Pulp Fiction,Crime,4.4,2025-04-28
+232,Avengers,Action,2.7,2023-09-21
+937,The Godfather,Crime,4.8,2025-03-31
+513,Interstellar,Sci-Fi,3.8,2025-03-26
+930,Interstellar,Sci-Fi,3.2,2024-07-20
+120,Shrek,Comedy,3.1,2024-05-08
+350,Inception,Sci-Fi,3.2,2024-09-28
+717,Shrek,Comedy,2.9,2025-02-04
+386,Inception,Sci-Fi,1.1,2024-12-19
+443,Shrek,Comedy,2.4,2025-07-24
+863,Shrek,Comedy,1.2,2023-08-02
+903,Pulp Fiction,Crime,2.3,2024-07-27
+237,The Godfather,Crime,2.1,2024-12-10
+705,Inception,Sci-Fi,4.9,2023-11-08
+560,The Godfather,Crime,3.9,2024-03-21
+397,Titanic,Romance,4.6,2025-07-03
+902,Inception,Sci-Fi,2.2,2024-12-22
+469,The Godfather,Crime,1.8,2024-05-14
+284,Inception,Sci-Fi,2.1,2024-02-06
+946,The Godfather,Crime,3.0,2024-05-08
+192,Finding Nemo,Animation,3.1,2023-11-13
+379,Finding Nemo,Animation,3.6,2024-02-15
+603,Pulp Fiction,Crime,4.6,2025-04-02
+537,Shrek,Comedy,1.8,2025-03-03
+896,Shrek,Comedy,4.6,2024-01-21
+836,Pulp Fiction,Crime,1.8,2025-05-03
+632,Inception,Sci-Fi,2.6,2024-05-16
+802,Titanic,Romance,2.8,2024-04-14
+359,The Godfather,Crime,2.3,2024-06-08
+985,Inception,Sci-Fi,4.1,2023-10-04
+609,Inception,Sci-Fi,4.1,2024-08-26
+974,Shrek,Comedy,1.5,2025-04-13
+576,Titanic,Romance,2.1,2024-04-12
+195,Avengers,Action,4.5,2024-10-14
+158,The Godfather,Crime,1.8,2024-06-12
+619,Avengers,Action,2.6,2025-02-04
+911,The Godfather,Crime,2.4,2025-05-29
+832,Avengers,Action,1.8,2024-08-31
+669,Inception,Sci-Fi,2.8,2023-08-17
+517,Pulp Fiction,Crime,2.0,2024-08-24
+312,Finding Nemo,Animation,3.7,2024-01-25
+488,Avengers,Action,3.3,2024-09-16
+101,Avengers,Action,1.0,2025-03-14
+940,Interstellar,Sci-Fi,2.8,2025-02-02
+793,Titanic,Romance,2.5,2025-04-16
+183,Avengers,Action,3.8,2025-05-17
+559,Titanic,Romance,4.5,2024-06-18
+157,Shrek,Comedy,4.5,2025-06-02
+559,Pulp Fiction,Crime,3.1,2024-08-28
+358,Avengers,Action,2.4,2023-12-24
+650,Interstellar,Sci-Fi,4.1,2023-08-19
+679,Pulp Fiction,Crime,2.3,2024-08-02
+193,Finding Nemo,Animation,4.8,2024-08-01
+295,Finding Nemo,Animation,2.7,2025-02-23
+380,The Godfather,Crime,3.8,2024-09-05
+833,Titanic,Romance,1.8,2024-09-09
+872,The Godfather,Crime,4.4,2025-04-16
+904,Avengers,Action,2.8,2024-03-19
+715,Finding Nemo,Animation,1.6,2024-03-07
+588,Titanic,Romance,3.5,2024-01-05
+441,Titanic,Romance,4.3,2023-08-09
+246,Inception,Sci-Fi,4.1,2024-02-04
+964,Finding Nemo,Animation,4.7,2024-06-26
+797,Avengers,Action,2.3,2024-01-25
+151,Pulp Fiction,Crime,3.2,2024-06-06
+904,Interstellar,Sci-Fi,1.5,2025-02-03
+907,Inception,Sci-Fi,2.4,2024-05-26
+530,Interstellar,Sci-Fi,2.1,2023-09-07
+391,Avengers,Action,1.0,2024-02-17
+223,Interstellar,Sci-Fi,1.8,2024-05-19
+428,Titanic,Romance,1.3,2024-02-16
+216,Inception,Sci-Fi,3.2,2024-10-28
+178,Avengers,Action,1.6,2024-05-02
+941,Avengers,Action,4.4,2024-02-20
+998,Titanic,Romance,4.3,2024-02-11
+767,Pulp Fiction,Crime,1.9,2025-02-05
+820,Inception,Sci-Fi,2.8,2024-11-13
+906,Finding Nemo,Animation,2.3,2024-12-10
+135,Titanic,Romance,3.3,2023-11-04
+754,Pulp Fiction,Crime,4.8,2025-01-31
+905,Shrek,Comedy,4.0,2023-10-23
+920,The Godfather,Crime,1.9,2023-12-05
+807,Finding Nemo,Animation,3.5,2024-07-16
+358,Inception,Sci-Fi,3.1,2024-04-16
+900,Pulp Fiction,Crime,3.5,2023-09-04
+573,Inception,Sci-Fi,4.0,2024-03-17
+867,Finding Nemo,Animation,1.3,2024-08-22
+826,Avengers,Action,2.5,2024-12-27
+472,Finding Nemo,Animation,3.5,2024-12-27
+924,Finding Nemo,Animation,2.6,2024-02-17
+465,Shrek,Comedy,4.3,2024-05-23
+609,Inception,Sci-Fi,4.8,2024-02-05
+130,Shrek,Comedy,1.7,2023-11-11
+176,The Godfather,Crime,1.6,2025-01-14
+327,Inception,Sci-Fi,4.1,2024-10-01
+314,Interstellar,Sci-Fi,3.5,2025-04-21
+847,Interstellar,Sci-Fi,1.0,2025-04-19
+293,Titanic,Romance,1.9,2023-08-28
+648,Titanic,Romance,4.7,2023-11-22
+307,Finding Nemo,Animation,2.6,2024-08-31
+758,Inception,Sci-Fi,4.5,2024-04-07
+596,Pulp Fiction,Crime,2.0,2024-01-13
+725,Inception,Sci-Fi,1.9,2024-06-07
+619,Shrek,Comedy,3.7,2025-06-16
+289,Pulp Fiction,Crime,4.1,2024-05-10
+577,Pulp Fiction,Crime,1.7,2023-12-31
+315,Interstellar,Sci-Fi,1.1,2025-01-16
+845,Interstellar,Sci-Fi,1.0,2024-09-21
+670,The Godfather,Crime,1.8,2024-08-03
+760,The Godfather,Crime,1.8,2023-12-15
+878,The Godfather,Crime,2.6,2024-09-13
+994,Titanic,Romance,2.9,2025-07-17
+711,Finding Nemo,Animation,1.6,2025-04-03
+984,Titanic,Romance,3.5,2024-05-11
+753,Avengers,Action,4.9,2023-08-11
+738,The Godfather,Crime,1.3,2024-01-27
+525,Shrek,Comedy,3.9,2025-04-01
+305,Avengers,Action,4.4,2023-09-09
+318,The Godfather,Crime,3.4,2024-07-16
+470,Titanic,Romance,1.7,2024-10-08
+599,Pulp Fiction,Crime,4.7,2023-11-02
+771,Pulp Fiction,Crime,4.7,2024-10-18
+454,Interstellar,Sci-Fi,1.3,2024-05-11
+649,The Godfather,Crime,1.1,2023-10-08
+416,Finding Nemo,Animation,1.2,2023-08-30
+917,Avengers,Action,2.6,2025-04-23
+729,Pulp Fiction,Crime,4.5,2025-07-12
+788,Interstellar,Sci-Fi,1.7,2024-01-19
+341,Titanic,Romance,2.0,2024-07-25
+941,Inception,Sci-Fi,4.6,2024-05-19
+522,Titanic,Romance,1.6,2024-01-23
+893,Interstellar,Sci-Fi,2.0,2025-07-16
+686,Finding Nemo,Animation,4.6,2023-10-15
+640,Shrek,Comedy,2.5,2025-07-26
+727,Pulp Fiction,Crime,4.5,2024-04-19
+477,Shrek,Comedy,2.3,2024-02-06
+126,Inception,Sci-Fi,4.2,2023-08-12
+945,Finding Nemo,Animation,2.4,2025-03-31
+284,Inception,Sci-Fi,2.3,2024-07-25
+456,Pulp Fiction,Crime,3.2,2025-01-07
+282,Interstellar,Sci-Fi,2.5,2024-05-21
+487,Shrek,Comedy,2.8,2025-01-19
+591,Shrek,Comedy,2.7,2025-07-28
+286,Finding Nemo,Animation,3.8,2025-07-08
+249,Avengers,Action,3.0,2023-11-29
+449,Avengers,Action,1.8,2024-01-10
+755,Shrek,Comedy,3.4,2025-05-28
+779,Avengers,Action,3.4,2023-09-03
+337,Titanic,Romance,2.4,2024-08-29
+780,Inception,Sci-Fi,2.2,2025-03-28
+451,Titanic,Romance,2.5,2024-10-20
+466,Finding Nemo,Animation,4.2,2025-03-24
+747,Pulp Fiction,Crime,4.3,2024-12-19
+371,Avengers,Action,4.2,2023-09-09
+565,Avengers,Action,1.6,2025-03-28
+778,Finding Nemo,Animation,2.4,2025-02-14
+174,Avengers,Action,3.9,2025-05-31
+902,The Godfather,Crime,1.4,2024-10-17
+801,Finding Nemo,Animation,3.1,2023-11-17
+187,Interstellar,Sci-Fi,2.6,2023-10-22
+637,Pulp Fiction,Crime,3.2,2024-01-17
+439,Titanic,Romance,2.3,2023-08-06
+306,Shrek,Comedy,3.0,2024-05-27
+953,Titanic,Romance,3.8,2024-03-18
+618,The Godfather,Crime,1.1,2024-01-17
+616,Avengers,Action,3.4,2023-08-17
+159,Finding Nemo,Animation,3.1,2024-03-23
+400,Shrek,Comedy,4.4,2024-06-15
+140,Avengers,Action,2.4,2024-10-22
+341,The Godfather,Crime,4.6,2024-04-20
+808,Pulp Fiction,Crime,3.0,2025-06-01
+697,Avengers,Action,2.2,2023-11-15
+520,Titanic,Romance,2.9,2025-02-10
+815,Inception,Sci-Fi,3.9,2024-02-22
+965,The Godfather,Crime,3.2,2023-08-18
+195,Avengers,Action,2.4,2024-05-27
+245,Pulp Fiction,Crime,1.1,2023-11-13
+359,The Godfather,Crime,2.3,2025-05-09
+787,Titanic,Romance,3.3,2024-12-22
+842,The Godfather,Crime,4.3,2023-08-29
+996,Pulp Fiction,Crime,1.7,2023-10-22
+224,Titanic,Romance,4.0,2023-10-07
+217,Shrek,Comedy,2.4,2023-08-28
+487,Shrek,Comedy,4.2,2025-01-28
+505,Inception,Sci-Fi,2.2,2025-05-11
+367,Pulp Fiction,Crime,4.4,2024-12-01
+864,Titanic,Romance,3.0,2024-09-11
+449,Inception,Sci-Fi,3.0,2024-05-31
+876,Avengers,Action,2.9,2024-09-29
+922,Inception,Sci-Fi,4.5,2024-04-05
+377,The Godfather,Crime,1.7,2024-07-22
+744,Interstellar,Sci-Fi,4.9,2024-01-16
+914,The Godfather,Crime,4.1,2024-04-11
+271,Titanic,Romance,1.6,2024-02-16
+407,Interstellar,Sci-Fi,3.4,2025-05-01
+797,The Godfather,Crime,4.9,2024-12-16
+821,Titanic,Romance,1.0,2025-04-03
+460,Pulp Fiction,Crime,4.1,2024-08-21
+431,Titanic,Romance,3.0,2025-04-03
+851,Shrek,Comedy,1.3,2025-03-22
+208,Interstellar,Sci-Fi,1.9,2023-10-30
+308,Shrek,Comedy,2.6,2025-01-29
+533,Shrek,Comedy,2.1,2024-07-08
+477,Interstellar,Sci-Fi,4.8,2024-01-14
+438,The Godfather,Crime,4.5,2024-01-16
+739,Finding Nemo,Animation,1.6,2024-04-17
+976,Finding Nemo,Animation,4.6,2024-08-13
+742,Interstellar,Sci-Fi,1.3,2024-07-15
+534,Finding Nemo,Animation,1.9,2024-06-01
+555,Titanic,Romance,1.9,2023-12-26
+158,Shrek,Comedy,3.1,2024-12-10
+808,Pulp Fiction,Crime,3.5,2024-02-23
+649,Inception,Sci-Fi,2.3,2024-03-26
+123,Shrek,Comedy,2.0,2023-09-24
+773,Titanic,Romance,3.7,2024-05-14
+834,Finding Nemo,Animation,4.9,2024-05-08
+460,Avengers,Action,4.8,2025-01-20
+465,The Godfather,Crime,3.9,2025-02-07
+255,Titanic,Romance,3.9,2024-05-05
+554,Pulp Fiction,Crime,2.6,2024-04-03
+652,Finding Nemo,Animation,3.9,2024-07-03
+727,Inception,Sci-Fi,4.3,2024-01-22
+719,Inception,Sci-Fi,1.5,2024-05-27
+238,Interstellar,Sci-Fi,2.0,2024-04-18
+489,Pulp Fiction,Crime,3.6,2023-08-01
+946,Pulp Fiction,Crime,2.7,2025-05-01
+471,Shrek,Comedy,1.4,2025-06-27
+688,Shrek,Comedy,1.4,2023-11-14
+569,Finding Nemo,Animation,2.8,2023-11-12
+826,Interstellar,Sci-Fi,1.5,2023-08-31
+127,Avengers,Action,4.7,2024-05-22
+377,Inception,Sci-Fi,2.2,2025-02-12
+295,Interstellar,Sci-Fi,2.2,2025-01-25
+544,Finding Nemo,Animation,3.2,2025-02-27
+832,Finding Nemo,Animation,1.6,2023-11-06
+543,Avengers,Action,2.0,2025-06-12
+190,Titanic,Romance,1.3,2025-04-29
+528,The Godfather,Crime,4.4,2024-06-10
+367,Shrek,Comedy,1.8,2023-11-26
+158,Interstellar,Sci-Fi,1.4,2025-06-22
+504,Titanic,Romance,2.9,2024-03-13
+634,Interstellar,Sci-Fi,3.8,2025-03-18
+715,Shrek,Comedy,1.7,2025-03-17
+256,Pulp Fiction,Crime,1.1,2024-11-02
+881,Titanic,Romance,1.8,2025-06-07
+819,Inception,Sci-Fi,4.8,2025-03-22
+337,Finding Nemo,Animation,4.3,2025-07-17
+178,Pulp Fiction,Crime,1.5,2025-05-14
+278,Pulp Fiction,Crime,4.3,2025-03-30
+605,Interstellar,Sci-Fi,1.4,2025-06-15
+141,Titanic,Romance,4.5,2023-10-27
+456,Avengers,Action,2.5,2025-04-08
+970,Finding Nemo,Animation,2.3,2023-11-01
+812,The Godfather,Crime,4.7,2023-09-15
+912,Finding Nemo,Animation,1.1,2024-06-08
+973,Inception,Sci-Fi,2.8,2023-11-02
+170,Shrek,Comedy,3.6,2023-08-19
+701,Avengers,Action,4.0,2023-09-16
+108,Avengers,Action,3.1,2025-07-12
+561,The Godfather,Crime,2.2,2023-12-19
+539,Pulp Fiction,Crime,4.2,2023-09-24
+789,Interstellar,Sci-Fi,1.2,2024-05-13
+604,Finding Nemo,Animation,3.3,2025-03-18
+397,Titanic,Romance,2.2,2025-05-22
+176,Pulp Fiction,Crime,2.3,2025-03-04
+713,Avengers,Action,3.7,2023-11-11
+102,Inception,Sci-Fi,3.9,2024-11-01
+989,Inception,Sci-Fi,1.2,2024-05-02
+260,Finding Nemo,Animation,4.6,2023-08-15
+742,Inception,Sci-Fi,2.5,2024-09-11
+284,Titanic,Romance,3.1,2023-11-22
+295,The Godfather,Crime,4.9,2025-03-25
+187,Interstellar,Sci-Fi,1.0,2025-01-10
+565,Finding Nemo,Animation,3.9,2024-10-27
+265,Finding Nemo,Animation,3.2,2025-05-26
+572,Finding Nemo,Animation,4.3,2023-08-03
+467,Titanic,Romance,3.8,2025-03-15
+868,Inception,Sci-Fi,4.9,2024-01-13
+174,Finding Nemo,Animation,1.3,2025-06-06
+472,Avengers,Action,2.7,2024-03-03
+502,Interstellar,Sci-Fi,2.7,2024-11-05
+607,Avengers,Action,3.7,2024-02-18
+442,Titanic,Romance,4.0,2025-01-29
+650,Shrek,Comedy,5.0,2024-12-09
+949,Inception,Sci-Fi,2.4,2024-09-19
+248,The Godfather,Crime,3.7,2024-07-06
+784,Interstellar,Sci-Fi,2.1,2024-01-21
+342,Pulp Fiction,Crime,5.0,2025-05-03
+495,Finding Nemo,Animation,4.4,2024-02-13
+547,Avengers,Action,1.5,2025-03-03
+406,Pulp Fiction,Crime,4.8,2023-11-22
+425,Interstellar,Sci-Fi,2.2,2024-05-23
+692,Shrek,Comedy,3.0,2024-08-24
+319,Avengers,Action,4.5,2024-06-10
+426,Interstellar,Sci-Fi,2.2,2025-05-27
+247,Interstellar,Sci-Fi,4.5,2024-03-07
+517,Finding Nemo,Animation,1.9,2024-10-11
+193,Pulp Fiction,Crime,4.6,2024-08-23
+589,The Godfather,Crime,3.7,2024-09-19
+371,Avengers,Action,1.2,2025-03-13
+476,Inception,Sci-Fi,4.3,2024-06-28
+646,Avengers,Action,2.7,2025-05-18
+304,Titanic,Romance,2.1,2024-12-11
+307,Pulp Fiction,Crime,4.1,2024-03-29
+605,The Godfather,Crime,3.6,2025-05-19
+132,Shrek,Comedy,2.6,2023-09-21
+734,Inception,Sci-Fi,4.3,2023-08-23
+502,Interstellar,Sci-Fi,4.1,2024-10-28
+654,Inception,Sci-Fi,1.8,2024-02-01
+211,Inception,Sci-Fi,4.8,2025-02-12
+573,Interstellar,Sci-Fi,3.0,2025-05-04
+909,Finding Nemo,Animation,2.4,2025-05-14
+611,Interstellar,Sci-Fi,4.8,2025-07-26
+598,Titanic,Romance,4.6,2024-10-09
+315,Pulp Fiction,Crime,4.5,2025-04-21
+119,Finding Nemo,Animation,2.8,2023-12-03
+344,Interstellar,Sci-Fi,3.1,2024-08-04
+816,Interstellar,Sci-Fi,4.8,2025-07-27
+370,Titanic,Romance,1.5,2024-01-25
+759,The Godfather,Crime,3.8,2023-10-12
+234,Pulp Fiction,Crime,3.4,2024-05-16
+740,Interstellar,Sci-Fi,2.3,2023-12-20
+819,Inception,Sci-Fi,4.9,2025-03-30
+710,Interstellar,Sci-Fi,1.5,2023-10-24
+651,The Godfather,Crime,2.3,2024-03-19
+623,Interstellar,Sci-Fi,4.2,2023-09-02
+620,Interstellar,Sci-Fi,2.8,2024-06-25
+289,Pulp Fiction,Crime,1.2,2025-04-06
+450,The Godfather,Crime,1.7,2023-12-15
+682,Interstellar,Sci-Fi,4.9,2025-01-14
+881,Avengers,Action,3.2,2024-11-03
+104,Titanic,Romance,5.0,2024-12-05
+812,Finding Nemo,Animation,4.0,2023-11-19
+248,Pulp Fiction,Crime,3.2,2025-01-22
+568,Interstellar,Sci-Fi,3.0,2024-12-18
+154,Shrek,Comedy,4.7,2024-12-11
+101,The Godfather,Crime,1.4,2024-09-28
+998,Avengers,Action,1.4,2024-09-10
+494,Shrek,Comedy,3.5,2025-02-15
+564,The Godfather,Crime,2.0,2023-12-13
+531,Avengers,Action,3.7,2025-04-13
+457,Inception,Sci-Fi,2.4,2024-03-07
+781,Titanic,Romance,2.0,2024-12-30
+389,Shrek,Comedy,2.0,2024-04-30
+368,Pulp Fiction,Crime,1.1,2025-04-24
+777,Inception,Sci-Fi,2.9,2024-02-24
+332,Avengers,Action,3.9,2023-08-25
+308,Avengers,Action,1.7,2024-08-07
+290,Titanic,Romance,1.2,2024-05-04
+562,Titanic,Romance,4.3,2024-10-25
+574,Titanic,Romance,3.6,2025-06-11
+221,Avengers,Action,1.7,2024-04-13
+338,Shrek,Comedy,4.2,2024-12-13
+974,Titanic,Romance,1.5,2025-01-16
+904,Shrek,Comedy,1.3,2024-03-15
+346,Titanic,Romance,1.7,2024-06-11
+388,Avengers,Action,1.3,2024-12-26
+843,Pulp Fiction,Crime,4.6,2023-09-22
+500,Pulp Fiction,Crime,1.1,2025-05-18
+756,Avengers,Action,3.8,2024-08-07
+953,Titanic,Romance,3.8,2024-03-10
+290,The Godfather,Crime,2.1,2025-05-02
+233,The Godfather,Crime,2.1,2025-01-14
+555,Pulp Fiction,Crime,1.3,2025-06-19
+835,Interstellar,Sci-Fi,3.8,2025-02-04
+266,Titanic,Romance,3.5,2023-09-28
+684,The Godfather,Crime,2.9,2024-12-07
+187,Titanic,Romance,1.6,2023-10-17
+126,Finding Nemo,Animation,1.7,2025-03-07
+458,Finding Nemo,Animation,3.3,2024-09-15
+890,Inception,Sci-Fi,1.5,2024-10-20
+542,Pulp Fiction,Crime,2.7,2025-07-10
+730,Shrek,Comedy,2.3,2025-06-25
+659,Pulp Fiction,Crime,1.2,2025-02-12
+111,The Godfather,Crime,1.2,2024-09-29
+997,Inception,Sci-Fi,4.4,2025-03-21
+891,The Godfather,Crime,4.0,2025-05-12
+281,Inception,Sci-Fi,1.9,2025-01-25
+378,Inception,Sci-Fi,3.9,2024-06-13
+938,Finding Nemo,Animation,4.7,2024-04-24
+813,Finding Nemo,Animation,4.4,2024-08-04
+351,Pulp Fiction,Crime,3.0,2023-12-29
+238,Inception,Sci-Fi,2.0,2024-02-22
+814,Finding Nemo,Animation,4.4,2024-10-16
+254,Pulp Fiction,Crime,4.8,2024-02-17
+581,Shrek,Comedy,4.7,2023-08-25
+885,Avengers,Action,4.4,2024-01-13
+360,Shrek,Comedy,4.9,2025-05-14
+190,Avengers,Action,3.0,2025-07-03
+105,Avengers,Action,2.6,2024-07-03
+279,Pulp Fiction,Crime,3.1,2023-11-30
+260,Shrek,Comedy,4.8,2024-01-07
+355,Inception,Sci-Fi,4.4,2023-11-19
+284,Inception,Sci-Fi,3.5,2025-04-08
+644,Interstellar,Sci-Fi,1.5,2025-06-13
+525,Shrek,Comedy,4.2,2023-08-03
+340,Shrek,Comedy,3.0,2024-04-25
+284,Interstellar,Sci-Fi,3.5,2024-04-04
+915,Interstellar,Sci-Fi,3.6,2025-02-27
+497,Interstellar,Sci-Fi,3.8,2023-09-28
+372,Titanic,Romance,3.6,2025-07-28
+502,Inception,Sci-Fi,4.1,2024-11-03
+518,Finding Nemo,Animation,4.1,2023-10-24
+932,Pulp Fiction,Crime,2.2,2024-05-06
+468,Finding Nemo,Animation,2.2,2025-01-25
+821,The Godfather,Crime,2.6,2025-01-26
+871,Interstellar,Sci-Fi,3.1,2023-12-21
+319,Shrek,Comedy,1.6,2024-10-20
+896,Inception,Sci-Fi,3.6,2025-05-05
+716,Shrek,Comedy,1.9,2024-02-27
+326,Avengers,Action,4.8,2024-06-08
+263,Titanic,Romance,2.6,2024-07-12
+948,Interstellar,Sci-Fi,4.3,2024-11-30
+905,Inception,Sci-Fi,1.9,2024-09-23
+903,Titanic,Romance,4.8,2024-06-01
+945,Shrek,Comedy,2.1,2025-05-31
+681,Avengers,Action,5.0,2023-08-26
+236,Inception,Sci-Fi,2.0,2024-09-14
+283,Pulp Fiction,Crime,3.3,2023-12-16
+765,Avengers,Action,4.0,2023-11-02
+720,Interstellar,Sci-Fi,2.5,2024-08-16
+415,Inception,Sci-Fi,2.0,2025-05-28
+609,Shrek,Comedy,4.4,2025-01-17
+993,Shrek,Comedy,3.0,2025-01-08
+549,Finding Nemo,Animation,1.4,2024-11-14
+206,Titanic,Romance,4.0,2024-11-15
+625,Finding Nemo,Animation,1.8,2025-03-12
+458,Inception,Sci-Fi,4.1,2025-07-15
+189,Avengers,Action,4.7,2023-11-27
+103,Interstellar,Sci-Fi,3.7,2024-07-17
+795,Interstellar,Sci-Fi,2.7,2025-07-09
+134,Avengers,Action,2.1,2024-05-12
+749,Interstellar,Sci-Fi,1.9,2024-11-04
+206,Inception,Sci-Fi,1.6,2025-07-04
+749,Avengers,Action,2.9,2023-08-29
+219,Avengers,Action,1.5,2024-09-19
+870,Interstellar,Sci-Fi,3.8,2024-04-19
+723,Shrek,Comedy,4.7,2024-07-26
+507,Titanic,Romance,1.5,2025-06-18
+650,Inception,Sci-Fi,1.2,2024-12-07
+170,Shrek,Comedy,1.9,2024-03-12
+659,The Godfather,Crime,3.8,2025-06-18
+317,Pulp Fiction,Crime,3.4,2025-03-12
+934,The Godfather,Crime,1.9,2025-03-30
+674,Inception,Sci-Fi,3.0,2025-07-22
+164,Titanic,Romance,3.9,2024-07-28
+939,Pulp Fiction,Crime,2.7,2025-06-24
+249,Avengers,Action,3.2,2023-12-20
+662,Titanic,Romance,3.4,2025-02-17
+549,The Godfather,Crime,3.7,2025-07-13
+843,Inception,Sci-Fi,1.4,2024-12-27
+829,The Godfather,Crime,1.1,2024-07-31
+326,Pulp Fiction,Crime,3.1,2024-03-13
+406,Interstellar,Sci-Fi,2.4,2024-10-03
+214,Avengers,Action,1.3,2025-06-08
+637,Pulp Fiction,Crime,3.8,2024-11-07
+992,Pulp Fiction,Crime,2.4,2024-05-04
+156,Finding Nemo,Animation,1.5,2024-07-29
+296,Titanic,Romance,2.3,2025-06-07
+665,Pulp Fiction,Crime,3.2,2024-05-26
+290,Inception,Sci-Fi,4.1,2024-06-24
+942,Inception,Sci-Fi,3.3,2024-10-19
+377,Pulp Fiction,Crime,4.3,2024-01-06
+957,The Godfather,Crime,4.5,2024-11-19
+935,Finding Nemo,Animation,2.1,2025-01-13
+523,Finding Nemo,Animation,4.7,2024-01-03
+270,Titanic,Romance,1.8,2023-12-03
+947,Titanic,Romance,3.4,2023-09-06
+963,Shrek,Comedy,3.1,2025-01-08
+559,Titanic,Romance,2.2,2023-08-16
+779,Shrek,Comedy,3.0,2024-11-14
+736,Interstellar,Sci-Fi,4.2,2024-07-02
+332,Avengers,Action,1.1,2024-08-20
+584,Pulp Fiction,Crime,3.7,2024-05-05
+977,Pulp Fiction,Crime,2.5,2023-10-06
+794,Inception,Sci-Fi,1.8,2023-10-22
+932,Pulp Fiction,Crime,1.4,2023-10-18
+450,Pulp Fiction,Crime,2.0,2025-02-04
+887,Pulp Fiction,Crime,1.8,2024-10-10
+650,Inception,Sci-Fi,4.8,2025-04-09
+708,The Godfather,Crime,3.8,2025-02-04
+973,Interstellar,Sci-Fi,3.8,2023-10-20
+734,Interstellar,Sci-Fi,3.0,2024-12-20
+470,Finding Nemo,Animation,1.9,2023-10-20
+988,The Godfather,Crime,3.3,2024-01-04
+714,Titanic,Romance,4.9,2024-05-30
+737,Pulp Fiction,Crime,2.5,2025-07-03
+711,Shrek,Comedy,3.1,2024-10-14
+184,Interstellar,Sci-Fi,2.4,2025-01-20
+539,Inception,Sci-Fi,2.7,2024-03-02
+417,Avengers,Action,3.9,2024-09-23
+968,The Godfather,Crime,3.5,2024-03-16
+957,Inception,Sci-Fi,2.6,2024-03-11
+663,Inception,Sci-Fi,1.7,2025-04-04
+137,Pulp Fiction,Crime,1.8,2024-04-25
+351,Finding Nemo,Animation,4.4,2024-03-19
+934,The Godfather,Crime,3.8,2024-09-25
+605,Avengers,Action,2.5,2023-09-27
+301,Shrek,Comedy,3.0,2023-09-05
+688,Titanic,Romance,1.2,2023-11-26
+414,Titanic,Romance,2.4,2024-09-05
+922,Titanic,Romance,4.1,2023-10-20
+127,Shrek,Comedy,2.1,2023-09-25
+190,Titanic,Romance,4.3,2023-12-20
+832,The Godfather,Crime,2.9,2024-11-26
+660,Shrek,Comedy,1.7,2025-01-17
+460,Inception,Sci-Fi,1.4,2023-09-13
+463,Titanic,Romance,1.2,2025-05-21
+935,Pulp Fiction,Crime,4.0,2023-10-18
+117,Shrek,Comedy,1.5,2024-09-22
+527,Avengers,Action,4.2,2024-07-21
+880,Titanic,Romance,2.4,2025-03-09
+461,Avengers,Action,4.8,2024-06-05
+351,Finding Nemo,Animation,1.2,2025-07-26
+335,Avengers,Action,2.4,2024-12-07
+613,Avengers,Action,4.9,2024-01-06
+446,Interstellar,Sci-Fi,1.6,2023-10-13
+141,Interstellar,Sci-Fi,3.8,2025-02-14
+773,Interstellar,Sci-Fi,1.5,2024-01-04
